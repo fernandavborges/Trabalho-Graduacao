@@ -81,6 +81,7 @@ for file in files:
     autolabel(rects1)
     autolabel(rects2)
     plt.tight_layout()
-    name_plot = str(Path(__file__).parents[0] / 'Results/Images') + detector
+    name_plot = str(Path(__file__).parents[0] / 'Results/Images') + '/' + detector
+    print(name_plot)
     plt.savefig(name_plot)
     plt.show()
