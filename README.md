@@ -1,5 +1,5 @@
 # Graduation work - Fernanda e Liz
-## This repository is intended for the scripts used during the graduation work with the theme: "Analysis of the impact of surgical facial modifications on deep learning algorithms for facial recognition".
+This repository is intended for the scripts used during the graduation work with the theme: "Analysis of the impact of surgical facial modifications on deep learning algorithms for facial recognition".
 
 ## Pre-requisites
 To run the scripts, functions from the DeepFace library are used. Therefore, you need to install some libraries, which can be found in the requirements.txt file.
@@ -30,11 +30,8 @@ Test performed on the HDA-PlasticSurgery image bank, where recognition is perfor
 
 
 ### Autors: 
-|name|email|course|
-| -------- | -------- | -------- |-------- | -------- |
-|Fernanda Vaz|fernandavazbc@gmail.com|Mechatronics Engineering - University of Brasilia (UnB)|
-| -------- | -------- | -------- |-------- | -------- |
-|Liz Carolina|@gmail.com|Mechatronics Engineering - University of Brasilia (UnB)|
+Fernanda Vaz - fernandavazbc@gmail.com - Mechatronics Engineering - University of Brasilia (UnB)
+Liz Carolina - lizcostato@gmail.com - Mechatronics Engineering - University of Brasilia (UnB)
 
 ## References
 -   **[Deep Face - Serengil](https://github.com/serengil/deepface)**
