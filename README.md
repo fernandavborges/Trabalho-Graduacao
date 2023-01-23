@@ -30,11 +30,8 @@ Test performed on the HDA-PlasticSurgery image bank, where recognition is perfor
 
 
 ### Autors: 
-|name|email|course|
-| -------- | -------- | -------- |-------- | -------- |
-|Fernanda Vaz|fernandavazbc@gmail.com|Mechatronics Engineering - University of Brasilia (UnB)|
-| -------- | -------- | -------- |-------- | -------- |
-|Liz Carolina|@gmail.com|Mechatronics Engineering - University of Brasilia (UnB)|
+Fernanda Vaz - fernandavazbc@gmail.com - Mechatronics Engineering - University of Brasilia (UnB)
+Liz Carolina - lizcostato@gmail.com - Mechatronics Engineering - University of Brasilia (UnB)
 
 ## References
 -   **[Deep Face - Serengil](https://github.com/serengil/deepface)**
