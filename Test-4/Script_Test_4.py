@@ -51,6 +51,7 @@ for paste in pastes:
     files = os.listdir(path)
     results = DataFrame(columns=COLUMNS)
     for file in files:
+      if(file != '.gitignore'):
         if(file[0:3] != subject):
             previous_image = ''
         subject = file[0:3]

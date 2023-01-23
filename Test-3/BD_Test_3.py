@@ -17,7 +17,7 @@ subjects = []
 n_images = 8 # number of images per subject
 
 for file in files:
-    if(file[0:4] != subject and file[0:4] not in rejected_subjects):
+    if(file[0:4] != subject and file[0:4] not in rejected_subjects and file != '.gitignore'):
         subjects.append(file[0:4])
         subject = file[0:4]
 
