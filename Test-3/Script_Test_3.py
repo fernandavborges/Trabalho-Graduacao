@@ -65,7 +65,7 @@ for file in files:
                 img2_path = str(Path().absolute()/ 'BD-FGNET' / file)
                 try:
                     result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = detector)
-                    results = results.append({'Image 1':img1_path, 'Age 1':previous_image[4:6], 'Image 2':img2_path, 'Age 2':file[4:6], 'Distance Metric':distance_metrics[0], 'Detection Model':detector, 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
+                    results = results.append({'Image 1':previous_image, 'Age 1':previous_image[4:6], 'Image 2':file, 'Age 2':file[4:6], 'Distance Metric':distance_metrics[0], 'Detection Model':detector, 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
                 except Exception as exception:
                     print('Exception:' + str(exception))
                     file_logs.write('Detector: ' + detector + '. Recognizer: ' + recognizer + '.\n') 

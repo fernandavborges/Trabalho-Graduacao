@@ -63,7 +63,7 @@ for paste in pastes:
 
                 try:
                     result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "euclidean", detector_backend = models_detection[3])
-                    results = results.append({'Surgery': paste, 'Image 1':img1_path, 'Image 2':img2_path, 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
+                    results = results.append({'Surgery': paste, 'Image 1':previous_image, 'Image 2':file, 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
                 except Exception as exception:
                     print('Exception:' + str(exception))
                     file_logs.write('Detector: ' + models_detection[3] + '. Recognizer: ' + recognizer + '.\n') 
