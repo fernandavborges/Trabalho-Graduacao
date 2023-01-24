@@ -10,6 +10,7 @@ from pandas import DataFrame
 # Taking the image bank created for this test
 PATH_DIRECTORY = Path().absolute() / 'BD'
 files = os.listdir(PATH_DIRECTORY)
+print(files)
 
 previous_image = ''
 subject = ''
