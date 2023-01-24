@@ -35,6 +35,5 @@ for select in selected:
     for file in files:
         if(file[0:4] == select):
             images.append(file)
-    print(len(images))
     for i in range(len(images)):
         shutil.copy(PATH_DIRECTORY_BD / images[i], NEW_BD_PATH)
