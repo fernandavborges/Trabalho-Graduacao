@@ -27,7 +27,7 @@ for file in files:
 # randomly selects the desired amount among the available subjects
 random.seed()
 selected = random.sample(subjects, k=n_subjects)
-# print(selected)
+print(selected)
 
 for select in selected:
     images = []

@@ -27,7 +27,7 @@ for file in files:
 # randomly selects the desired amount among the available subjects
 random.seed()
 selected = random.sample(subjects, k=n_subjects)
-# print(selected)
+print(selected)
 
 # Randomly selecting the images after taking the extremes, and taking care to take the same amount in the first half of the photos as in the second
 # for select in selected:
