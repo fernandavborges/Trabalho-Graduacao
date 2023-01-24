@@ -7,7 +7,7 @@ from pathlib import Path
 from pandas import DataFrame
 
 # Chosing the database
-PATH_DIRECTORY_BD = Path(__file__).parents[1]  / 'HDA-PlasticSurgery'
+PATH_DIRECTORY_BD = Path().absolute().parents[0]  / 'HDA-PlasticSurgery'
 pastes = os.listdir(PATH_DIRECTORY_BD)
 
 previous_image = ''
@@ -41,8 +41,8 @@ models_detection = [
   "mediapipe"
 ]
 
-results_folder = Path(__file__).parents[0] / 'Results/CSVs'
-file_logs_name = Path(__file__).parents[0] / 'Logs_Test_4.txt'
+results_folder = Path().absolute() / 'Results/CSVs'
+file_logs_name = Path().absolute() / 'Logs_Test_4.txt'
 
 file_logs = open(file_logs_name, "w")
 

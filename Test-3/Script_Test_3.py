@@ -8,7 +8,7 @@ from pathlib import Path
 from pandas import DataFrame
 
 # Chosing the database
-PATH_DIRECTORY = Path(__file__).parents[0] / 'BD-FGNET'
+PATH_DIRECTORY = Path().absolute() / 'BD-FGNET'
 files = os.listdir(PATH_DIRECTORY)
 
 previous_image = ''
@@ -41,8 +41,8 @@ models_detection = [
   "mediapipe"
 ]
 
-results_folder = Path(__file__).parents[0] / 'Results/CSVs/'
-file_logs_name = Path(__file__).parents[0] / 'Logs_Test_3.txt'
+results_folder = Path().absolute() / 'Results/CSVs/'
+file_logs_name = Path().absolute() / 'Logs_Test_3.txt'
 
 file_logs = open(file_logs_name, "w")
 
@@ -61,8 +61,8 @@ for file in files:
         for recognizer in models_recognition:
             print('Detector: ' + detector + '\n' + 'Recognizer: ' + recognizer + '\n')
             if previous_image != '':
-                img1_path = str(Path(__file__).parents[0] / 'BD-FGNET' / previous_image)
-                img2_path = str(Path(__file__).parents[0] / 'BD-FGNET' / file)
+                img1_path = str(Path().absolute() / 'BD-FGNET' / previous_image)
+                img2_path = str(Path().absolute()/ 'BD-FGNET' / file)
                 try:
                     result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = detector)
                     results = results.append({'Image 1':img1_path, 'Age 1':previous_image[4:6], 'Image 2':img2_path, 'Age 2':file[4:6], 'Distance Metric':distance_metrics[0], 'Detection Model':detector, 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)

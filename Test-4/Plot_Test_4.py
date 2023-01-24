@@ -5,7 +5,7 @@ import os
 import pandas
 import numpy as np
 
-PATH_DIRECTORY = Path(__file__).parents[0] / 'Results/CSVs'
+PATH_DIRECTORY = Path().absolute() / 'Results/CSVs'
 files = PATH_DIRECTORY.glob('*.csv')
 
 COLUMNS = ['Surgery', 'Image 1', 'Image 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
@@ -81,7 +81,7 @@ for file in files:
     autolabel(rects1)
     autolabel(rects2)
     plt.tight_layout()
-    name_plot = str(Path(__file__).parents[0] / 'Results/Images') + '/' + detector
+    name_plot = str(Path().absolute() / 'Results/Images') + '/' + detector
     print(name_plot)
     plt.savefig(name_plot)
     plt.show()

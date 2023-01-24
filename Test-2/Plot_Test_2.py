@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas
 import numpy as np
 
-PATH_DIRECTORY = Path(__file__).parents[0] / 'Results/CSVs'
+PATH_DIRECTORY = Path().absolute() / 'Results/CSVs'
 files = PATH_DIRECTORY.glob('*.csv')
 
 
@@ -60,7 +60,7 @@ for file in files:
         plt.title("Sujeito: "+ subject + ". Modelo: " + iterator[0] + ".")
         plt.bar(year, results_recognizer)
         plt.plot([year[0], year[-1]], [iterator[1], iterator[1]], "-", color='b', label='Limite')
-        name_plot = str(Path(__file__).parents[0] / 'Results/Images') +  '/' + iterator[0] + '-' + subject
+        name_plot = str(Path().absolute() / 'Results/Images') +  '/' + iterator[0] + '-' + subject
         plt.savefig(name_plot)
         #plt.show()
         plt.close()

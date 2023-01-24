@@ -8,7 +8,7 @@ from pathlib import Path
 from pandas import DataFrame
 
 # Taking the image bank created for this test
-PATH_DIRECTORY = Path(__file__).parents[0] / 'BD'
+PATH_DIRECTORY = Path().absolute() / 'BD'
 files = os.listdir(PATH_DIRECTORY)
 
 previous_image = ''
@@ -41,8 +41,8 @@ models_detection = [
 ]
 COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
-results_folder = Path(__file__).parents[0] / 'Results/CSVs/'
-file_logs_name = Path(__file__).parents[0] / 'Logs_Test_1.txt'
+results_folder = Path().absolute() / 'Results/CSVs/'
+file_logs_name = Path().absolute() / 'Logs_Test_1.txt'
 file_logs = open(file_logs_name, "w")
 
 for file in files:
@@ -63,8 +63,8 @@ for file in files:
           print('Detector: mtcnn' + '\n' + 'Recognizer: ' + recognizer + '\n')
 
           if previous_image != '':
-              img1_path = str(Path(__file__).parents[0] / 'BD' / previous_image)
-              img2_path = str(Path(__file__).parents[0] / 'BD' / file)
+              img1_path = str(Path().absolute() / 'BD' / previous_image)
+              img2_path = str(Path().absolute() / 'BD' / file)
 
               try:
                   result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = distance_metrics[0], detector_backend = models_detection[3])

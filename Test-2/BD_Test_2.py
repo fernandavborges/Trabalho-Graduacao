@@ -7,10 +7,10 @@ from pathlib import Path
 import random
 import shutil
 
-PATH_DIRECTORY_BD = Path(__file__).parents[1] / 'Banco-de-Imagens'
+PATH_DIRECTORY_BD = Path().absolute().parents[0] / 'Banco-de-Imagens'
 files = os.listdir(PATH_DIRECTORY_BD)
 
-NEW_BD_PATH = Path(__file__).parents[0] / 'BD'
+NEW_BD_PATH = Path().absolute() / 'BD'
 
 # Subjects who did not admit the plastic and not even a specialist attested about
 rejected_subjects = ['S077', 'S082']

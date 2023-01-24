@@ -6,10 +6,10 @@ import os
 from pathlib import Path
 import shutil
 
-PATH_DIRECTORY_BD = Path(__file__).parents[1] / 'FGNET'
+PATH_DIRECTORY_BD = Path().absolute().parents[0] / 'FGNET'
 files = os.listdir(PATH_DIRECTORY_BD)
 
-NEW_BD_PATH = Path(__file__).parents[0] / 'BD-FGNET'
+NEW_BD_PATH = Path().absolute() / 'BD-FGNET'
 
 rejected_subjects = ['S064']
 subject = ''
