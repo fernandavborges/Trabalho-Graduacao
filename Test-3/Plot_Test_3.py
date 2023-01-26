@@ -5,7 +5,7 @@ import os
 import pandas
 import numpy as np
 
-PATH_DIRECTORY = Path(__file__).parents[0] / 'Results/CSVs'
+PATH_DIRECTORY = Path().absolute() / 'Results/CSVs'
 files = PATH_DIRECTORY.glob('*.csv')
 COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
@@ -58,7 +58,7 @@ for file in files:
         plt.title("Sujeito: "+ subject + ". Modelo: " + iterator[0] + ".")
         plt.bar(years_old, results_recognizer)
         plt.plot([years_old[0], years_old[-1]], [iterator[1], iterator[1]], "-", color='b', label='Limite')
-        name_plot = str(Path(__file__).parents[0] / 'Results/Images') +  '/' +  iterator[0] + '-' + subject
+        name_plot = str(Path().absolute() / 'Results/Images') +  '/' +  iterator[0] + '-' + subject
         plt.savefig(name_plot)
         #plt.show()
         plt.close()
