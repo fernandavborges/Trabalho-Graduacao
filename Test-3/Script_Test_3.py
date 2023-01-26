@@ -10,6 +10,8 @@ from pandas import DataFrame
 # Chosing the database
 PATH_DIRECTORY = Path().absolute() / 'BD-FGNET'
 files = os.listdir(PATH_DIRECTORY)
+files.sort()
+print(files)
 
 previous_image = ''
 subject = ''
