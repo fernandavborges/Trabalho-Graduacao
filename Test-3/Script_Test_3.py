@@ -23,6 +23,7 @@ distance_metrics = [
   "euclidean", 
   "euclidean_l2"
 ]
+
 models_recognition = [
   "VGG-Face", 
   "Facenet", 
@@ -34,6 +35,7 @@ models_recognition = [
   "Dlib", 
   "SFace"
 ]
+
 models_detection = [
   "opencv", 
   "ssd", 
