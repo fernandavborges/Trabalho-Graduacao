@@ -1,0 +1,3972 @@
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1980_F_A.jpg e S056_1969_1983_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1983_F_A.JPG e S056_1969_1984_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1984_F_A.JPG e S056_1969_1986_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1986_F_A.jpg e S056_1969_1987_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1987_F_A.jpg e S056_1969_1990_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1990_F_A.jpg e S056_1969_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1991_F_A.jpg e S056_1969_1992_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1992_F_A.jpg e S056_1969_1993_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1993_F_A.jpg e S056_1969_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1994_F_A.jpg e S056_1969_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1995_F_A.jpg e S056_1969_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1996_F_A.jpg e S056_1969_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1997_F_A.jpg e S056_1969_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1998_F_A.jpg e S056_1969_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_1999_F_A.jpg e S056_1969_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2000_F_A.jpg e S056_1969_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2001_F_A.jpg e S056_1969_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2002_F_A.jpg e S056_1969_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2003_F_A.jpg e S056_1969_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2004_F_A.jpg e S056_1969_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2005_F_A.jpg e S056_1969_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2006_F_A.jpg e S056_1969_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2007_F_A.jpg e S056_1969_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2008_F_A.jpg e S056_1969_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2009_F_A.jpg e S056_1969_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2010_F_A.jpg e S056_1969_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2011_F_A.jpg e S056_1969_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2012_F_A.jpg e S056_1969_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2013_F_A.jpg e S056_1969_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2014_F_A.jpg e S056_1969_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2015_F_A.jpg e S056_1969_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2016_F_A.jpg e S056_1969_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2017_F_A.jpg e S056_1969_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2018_F_A.jpg e S056_1969_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2019_F_A.jpg e S056_1969_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2020_F_A.jpg e S056_1969_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S056_1969_2021_F_A.jpg e S056_1969_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_1989_M_E.JPG e S057_1985_1993_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_1993_M_E.jpg e S057_1985_1994_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_1994_M_E.JPG e S057_1985_1995_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_1995_M_E.jpg e S057_1985_1997_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_1997_M_E.jpg e S057_1985_2001_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2001_M_E.JPG e S057_1985_2002_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2002_M_E.jpg e S057_1985_2003_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2003_M_E.jpg e S057_1985_2004_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2004_M_E.jpg e S057_1985_2005_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2005_M_E.jpg e S057_1985_2006_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2006_M_E.jpg e S057_1985_2007_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2007_M_E.jpg e S057_1985_2008_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2008_M_E.jpg e S057_1985_2009_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2009_M_E.jpg e S057_1985_2010_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2010_M_E.jpg e S057_1985_2011_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2011_M_E.jpg e S057_1985_2012_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2012_M_E.jpg e S057_1985_2013_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2013_M_E.jpg e S057_1985_2014_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2014_M_E.jpg e S057_1985_2015_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2015_M_E.jpg e S057_1985_2016_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2016_M_E.jpg e S057_1985_2017_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2017_M_E.jpg e S057_1985_2018_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2018_M_E.jpg e S057_1985_2019_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2019_M_E.jpg e S057_1985_2020_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2020_M_E.jpg e S057_1985_2021_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S057_1985_2021_M_E.jpg e S057_1985_2022_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_1995_F_A.JPG e S058_1990_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2003_F_A.jpg e S058_1990_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2004_F_A.jpg e S058_1990_2008_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2008_F_A.JPG e S058_1990_2012_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2012_F_A.JPG e S058_1990_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2013_F_A.jpg e S058_1990_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2014_F_A.jpg e S058_1990_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2015_F_A.jpg e S058_1990_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2016_F_A.jpg e S058_1990_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2017_F_A.jpg e S058_1990_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2018_F_A.jpg e S058_1990_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2019_F_A.jpg e S058_1990_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2020_F_A.jpg e S058_1990_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S058_1990_2021_F_A.jpg e S058_1990_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_1992_F_A.jpg e S059_1985_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_1995_F_A.jpg e S059_1985_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_1998_F_A.jpg e S059_1985_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2000_F_A.jpg e S059_1985_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2002_F_A.jpg e S059_1985_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2003_F_A.jpg e S059_1985_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2004_F_A.jpg e S059_1985_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2005_F_A.jpg e S059_1985_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2006_F_A.jpg e S059_1985_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2007_F_A.jpg e S059_1985_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2008_F_A.jpg e S059_1985_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2009_F_A.jpg e S059_1985_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2010_F_A.jpg e S059_1985_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2011_F_A.jpg e S059_1985_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2012_F_A.jpg e S059_1985_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2013_F_A.jpg e S059_1985_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2014_F_A.jpg e S059_1985_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2015_F_A.jpg e S059_1985_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2016_F_A.jpg e S059_1985_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2017_F_A.jpg e S059_1985_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2018_F_A.jpg e S059_1985_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2019_F_A.jpg e S059_1985_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2020_F_A.jpg e S059_1985_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S059_1985_2021_F_A.jpg e S059_1985_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_1976_F_A.JPG e S060_1953_1979_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_1979_F_A.JPG e S060_1953_1982_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_1982_F_A.JPG e S060_1953_1986_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_1986_F_A.jpg e S060_1953_1987_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_1987_F_A.JPG e S060_1953_2002_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2002_F_A.JPG e S060_1953_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2003_F_A.jpg e S060_1953_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2004_F_A.jpg e S060_1953_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2005_F_A.jpg e S060_1953_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2006_F_A.jpg e S060_1953_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2007_F_A.jpg e S060_1953_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2008_F_A.jpg e S060_1953_2009_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2009_F_A.JPG e S060_1953_2010_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2010_F_A.JPG e S060_1953_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2012_F_A.jpg e S060_1953_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2014_F_A.jpg e S060_1953_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2015_F_A.jpg e S060_1953_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2016_F_A.jpg e S060_1953_2017_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2017_F_A.JPG e S060_1953_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2018_F_A.jpg e S060_1953_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2019_F_A.jpg e S060_1953_2020_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2020_F_A.JPG e S060_1953_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S060_1953_2021_F_A.jpg e S060_1953_2022_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1956_M_E.JPG e S061_1942_1957_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1957_M_E.JPG e S061_1942_1960_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1960_M_E.jpg e S061_1942_1962_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1962_M_E.jpg e S061_1942_1963_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1963_M_E.jpg e S061_1942_1965_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1965_M_E.jpg e S061_1942_1966_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1966_M_E.jpg e S061_1942_1967_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1967_M_E.JPG e S061_1942_1968_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1968_M_E.jpg e S061_1942_1969_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1969_M_E.jpg e S061_1942_1970_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1970_M_E.jpg e S061_1942_1971_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1971_M_E.jpg e S061_1942_1972_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1972_M_E.jpg e S061_1942_1974_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1974_M_E.JPG e S061_1942_1975_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1975_M_E.JPG e S061_1942_1976_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1976_M_E.JPG e S061_1942_1978_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1978_M_E.jpg e S061_1942_1979_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1979_M_E.jpg e S061_1942_1980_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1980_M_E.jpg e S061_1942_1984_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1984_M_E.jpg e S061_1942_1985_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1985_M_E.jpg e S061_1942_1986_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1986_M_E.jpg e S061_1942_1987_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1987_M_E.jpg e S061_1942_1988_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1988_M_E.JPG e S061_1942_1989_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1989_M_E.jpg e S061_1942_1990_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1990_M_E.jpg e S061_1942_1991_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1991_M_E.jpg e S061_1942_1994_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1994_M_E.jpg e S061_1942_1995_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1995_M_E.JPG e S061_1942_1996_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1996_M_E.jpg e S061_1942_1997_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1997_M_E.jpg e S061_1942_1998_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1998_M_E.JPG e S061_1942_1999_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_1999_M_E.JPG e S061_1942_2000_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2000_M_E.JPG e S061_1942_2001_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2001_M_E.jpg e S061_1942_2002_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2002_M_E.jpg e S061_1942_2003_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2003_M_E.jpg e S061_1942_2004_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2004_M_E.jpg e S061_1942_2005_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2005_M_E.jpg e S061_1942_2006_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2006_M_E.jpg e S061_1942_2007_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2007_M_E.jpg e S061_1942_2008_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2008_M_E.jpg e S061_1942_2009_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2009_M_E.jpg e S061_1942_2010_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2010_M_E.jpg e S061_1942_2011_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2011_M_E.jpg e S061_1942_2012_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2012_M_E.jpg e S061_1942_2013_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2013_M_E.jpg e S061_1942_2014_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2014_M_E.jpg e S061_1942_2015_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2015_M_E.jpg e S061_1942_2016_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2016_M_E.jpg e S061_1942_2017_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2017_M_E.jpg e S061_1942_2018_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2018_M_E.jpg e S061_1942_2019_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2019_M_E.jpg e S061_1942_2020_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2020_M_E.jpg e S061_1942_2021_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S061_1942_2021_M_E.JPG e S061_1942_2022_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1965_F_E.jpg e S062_1958_1972_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1972_F_E.jpg e S062_1958_1975_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1975_F_E.jpg e S062_1958_1976_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1976_F_E.jpg e S062_1958_1977_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1977_F_E.jpg e S062_1958_1978_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1978_F_E.jpg e S062_1958_1979_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1979_F_E.JPG e S062_1958_1980_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1980_F_E.jpg e S062_1958_1981_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1981_F_E.JPG e S062_1958_1982_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1982_F_E.jpg e S062_1958_1983_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1983_F_E.jpg e S062_1958_1984_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1984_F_E.jpg e S062_1958_1985_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1985_F_E.JPG e S062_1958_1986_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1986_F_E.JPG e S062_1958_1987_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1987_F_E.JPG e S062_1958_1988_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1988_F_E.jpg e S062_1958_1989_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1989_F_E.jpg e S062_1958_1990_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1990_F_E.JPG e S062_1958_1991_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1991_F_E.jpg e S062_1958_1992_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1992_F_E.jpg e S062_1958_1993_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1993_F_E.jpg e S062_1958_1994_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1994_F_E.jpg e S062_1958_1995_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1995_F_E.jpg e S062_1958_1996_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1996_F_E.JPG e S062_1958_1997_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1997_F_E.JPG e S062_1958_1998_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1998_F_E.JPG e S062_1958_1999_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_1999_F_E.jpg e S062_1958_2000_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2000_F_E.jpg e S062_1958_2001_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2001_F_E.jpg e S062_1958_2002_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2002_F_E.jpg e S062_1958_2003_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2003_F_E.jpg e S062_1958_2004_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2004_F_E.jpg e S062_1958_2005_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2005_F_E.JPG e S062_1958_2006_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2006_F_E.jpg e S062_1958_2007_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2007_F_E.jpg e S062_1958_2008_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2008_F_E.JPG e S062_1958_2009_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2009_F_E.jpg e S062_1958_2010_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2010_F_E.jpg e S062_1958_2011_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2011_F_E.jpg e S062_1958_2012_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2012_F_E.jpg e S062_1958_2013_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2013_F_E.jpg e S062_1958_2014_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2014_F_E.jpg e S062_1958_2015_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2015_F_E.jpg e S062_1958_2016_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2016_F_E.jpg e S062_1958_2017_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2017_F_E.jpg e S062_1958_2018_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2018_F_E.jpg e S062_1958_2019_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2019_F_E.jpg e S062_1958_2020_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2020_F_E.JPG e S062_1958_2021_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S062_1958_2021_F_E.jpg e S062_1958_2022_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_1984_F_A.JPG e S063_1974_1989_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_1989_F_A.JPG e S063_1974_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_1995_F_A.jpg e S063_1974_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2000_F_A.jpg e S063_1974_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2003_F_A.jpg e S063_1974_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2004_F_A.jpg e S063_1974_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2006_F_A.jpg e S063_1974_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2007_F_A.jpg e S063_1974_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2008_F_A.jpg e S063_1974_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2010_F_A.jpg e S063_1974_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2011_F_A.jpg e S063_1974_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2012_F_A.jpg e S063_1974_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2013_F_A.jpg e S063_1974_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2014_F_A.jpg e S063_1974_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2015_F_A.jpg e S063_1974_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2016_F_A.jpg e S063_1974_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2017_F_A.jpg e S063_1974_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2018_F_A.jpg e S063_1974_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2020_F_A.jpg e S063_1974_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S063_1974_2021_F_A.jpg e S063_1974_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1971_F_E.JPG e S064_1966_1972_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1972_F_E.JPG e S064_1966_1973_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1973_F_E.JPG e S064_1966_1974_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1974_F_E.jpg e S064_1966_1975_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1975_F_E.JPG e S064_1966_1976_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1976_F_E.JPG e S064_1966_1977_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1977_F_E.jpg e S064_1966_1978_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1978_F_E.jpg e S064_1966_1979_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1979_F_E.jpg e S064_1966_1981_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1981_F_E.jpg e S064_1966_1982_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1982_F_E.jpg e S064_1966_1983_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1983_F_E.jpg e S064_1966_1984_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1984_F_E.jpg e S064_1966_1985_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1985_F_E.jpg e S064_1966_1986_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1986_F_E.jpg e S064_1966_1987_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1987_F_E.jpg e S064_1966_1988_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1988_F_E.jpg e S064_1966_1989_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1989_F_E.jpg e S064_1966_1990_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1990_F_E.jpg e S064_1966_1991_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1991_F_E.jpg e S064_1966_1992_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1992_F_E.jpg e S064_1966_1993_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1993_F_E.jpg e S064_1966_1994_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1994_F_E.jpg e S064_1966_1995_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1995_F_E.jpg e S064_1966_1997_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1997_F_E.jpg e S064_1966_1998_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1998_F_E.jpg e S064_1966_1999_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_1999_F_E.jpg e S064_1966_2000_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2000_F_E.jpg e S064_1966_2001_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2001_F_E.jpg e S064_1966_2002_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2002_F_E.jpg e S064_1966_2003_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2003_F_E.jpg e S064_1966_2004_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2004_F_E.jpg e S064_1966_2005_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2005_F_E.jpg e S064_1966_2006_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2006_F_E.jpg e S064_1966_2007_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2007_F_E.jpg e S064_1966_2008_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2008_F_E.jpg e S064_1966_2009_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2009_F_E.jpg e S064_1966_2010_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2010_F_E.jpg e S064_1966_2011_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2011_F_E.jpg e S064_1966_2012_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2012_F_E.jpg e S064_1966_2013_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2013_F_E.jpg e S064_1966_2015_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2015_F_E.jpg e S064_1966_2016_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2016_F_E.jpg e S064_1966_2017_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2017_F_E.jpg e S064_1966_2018_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2018_F_E.jpg e S064_1966_2019_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2019_F_E.jpg e S064_1966_2020_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2020_F_E.jpg e S064_1966_2021_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S064_1966_2021_F_E.jpg e S064_1966_2022_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1983_F_E.jpg e S065_1973_1984_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1984_F_E.JPG e S065_1973_1985_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1985_F_E.jpg e S065_1973_1986_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1986_F_E.JPG e S065_1973_1987_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1987_F_E.jpg e S065_1973_1988_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1988_F_E.jpg e S065_1973_1990_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1990_F_E.jpg e S065_1973_1991_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1991_F_E.jpg e S065_1973_1992_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1992_F_E.jpg e S065_1973_1993_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1993_F_E.jpg e S065_1973_1994_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1994_F_E.jpg e S065_1973_1995_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1995_F_E.jpg e S065_1973_1996_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1996_F_E.jpg e S065_1973_1997_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1997_F_E.jpg e S065_1973_1998_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1998_F_E.jpg e S065_1973_1999_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_1999_F_E.jpg e S065_1973_2000_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2000_F_E.jpg e S065_1973_2001_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2001_F_E.jpg e S065_1973_2002_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2002_F_E.jpg e S065_1973_2003_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2003_F_E.jpg e S065_1973_2004_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2004_F_E.jpg e S065_1973_2005_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2005_F_E.jpg e S065_1973_2006_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2006_F_E.jpg e S065_1973_2007_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2007_F_E.jpg e S065_1973_2008_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2008_F_E.jpg e S065_1973_2009_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2009_F_E.jpg e S065_1973_2010_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2010_F_E.jpg e S065_1973_2011_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2011_F_E.jpg e S065_1973_2012_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2012_F_E.jpg e S065_1973_2013_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2013_F_E.jpg e S065_1973_2014_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2014_F_E.jpg e S065_1973_2015_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2015_F_E.jpg e S065_1973_2016_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2016_F_E.jpg e S065_1973_2017_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2017_F_E.jpg e S065_1973_2018_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2018_F_E.jpg e S065_1973_2019_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2019_F_E.jpg e S065_1973_2021_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S065_1973_2021_F_E.jpg e S065_1973_2022_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_1990_F_A.JPG e S066_1982_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2002_F_A.jpg e S066_1982_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2004_F_A.jpg e S066_1982_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2005_F_A.jpg e S066_1982_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2006_F_A.jpg e S066_1982_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2007_F_A.jpg e S066_1982_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2008_F_A.jpg e S066_1982_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2009_F_A.jpg e S066_1982_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2010_F_A.jpg e S066_1982_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2011_F_A.jpg e S066_1982_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2012_F_A.jpg e S066_1982_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2013_F_A.jpg e S066_1982_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2014_F_A.jpg e S066_1982_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2015_F_A.jpg e S066_1982_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2016_F_A.jpg e S066_1982_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2017_F_A.jpg e S066_1982_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2018_F_A.jpg e S066_1982_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2019_F_A.jpg e S066_1982_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2020_F_A.jpg e S066_1982_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S066_1982_2021_F_A.jpg e S066_1982_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1970_F_A.jpg e S067_1964_1982_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1982_F_A.jpg e S067_1964_1990_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1990_F_A.jpg e S067_1964_1991_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1991_F_A.JPG e S067_1964_1992_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1992_F_A.jpg e S067_1964_1994_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1994_F_A.JPG e S067_1964_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1996_F_A.jpg e S067_1964_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1997_F_A.jpg e S067_1964_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1998_F_A.jpg e S067_1964_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_1999_F_A.jpg e S067_1964_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2000_F_A.jpg e S067_1964_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2001_F_A.jpg e S067_1964_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2002_F_A.jpg e S067_1964_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2003_F_A.jpg e S067_1964_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2004_F_A.jpg e S067_1964_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2005_F_A.jpg e S067_1964_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2006_F_A.jpg e S067_1964_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2007_F_A.jpg e S067_1964_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2008_F_A.jpg e S067_1964_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2009_F_A.jpg e S067_1964_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2010_F_A.jpg e S067_1964_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2011_F_A.jpg e S067_1964_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2012_F_A.jpg e S067_1964_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2013_F_A.jpg e S067_1964_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2014_F_A.jpg e S067_1964_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2015_F_A.jpg e S067_1964_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2016_F_A.jpg e S067_1964_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2017_F_A.jpg e S067_1964_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2018_F_A.jpg e S067_1964_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2019_F_A.jpg e S067_1964_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2020_F_A.jpg e S067_1964_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S067_1964_2021_F_A.jpg e S067_1964_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1971_M_A.jpg e S068_1967_1980_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1980_M_A.jpg e S068_1967_1984_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1984_M_A.JPG e S068_1967_1985_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1985_M_A.JPG e S068_1967_1988_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1988_M_A.jpg e S068_1967_1989_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1989_M_A.jpg e S068_1967_1990_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1990_M_A.jpg e S068_1967_1991_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1991_M_A.jpg e S068_1967_1992_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1992_M_A.jpg e S068_1967_1993_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1993_M_A.jpg e S068_1967_1994_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1994_M_A.jpg e S068_1967_1995_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1995_M_A.jpg e S068_1967_1996_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1996_M_A.jpg e S068_1967_1997_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1997_M_A.jpg e S068_1967_1998_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1998_M_A.jpg e S068_1967_1999_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_1999_M_A.jpg e S068_1967_2000_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2000_M_A.jpg e S068_1967_2001_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2001_M_A.jpg e S068_1967_2002_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2002_M_A.jpg e S068_1967_2003_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2003_M_A.jpg e S068_1967_2004_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2004_M_A.jpg e S068_1967_2005_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2005_M_A.jpg e S068_1967_2006_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2006_M_A.jpg e S068_1967_2007_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2007_M_A.jpg e S068_1967_2008_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2008_M_A.jpg e S068_1967_2009_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2009_M_A.jpg e S068_1967_2010_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2010_M_A.jpg e S068_1967_2011_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2011_M_A.jpg e S068_1967_2012_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2012_M_A.jpg e S068_1967_2013_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2013_M_A.jpg e S068_1967_2014_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2014_M_A.jpg e S068_1967_2015_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2015_M_A.jpg e S068_1967_2016_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2016_M_A.jpg e S068_1967_2017_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2017_M_A.jpg e S068_1967_2018_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2018_M_A.jpg e S068_1967_2019_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2019_M_A.jpg e S068_1967_2020_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2020_M_A.jpg e S068_1967_2021_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S068_1967_2021_M_A.jpg e S068_1967_2022_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1981_F_A.JPG e S069_1980_1986_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1986_F_A.jpg e S069_1980_1987_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1987_F_A.JPG e S069_1980_1989_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1989_F_A.JPG e S069_1980_1993_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1993_F_A.JPG e S069_1980_1994_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1994_F_A.JPG e S069_1980_1995_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1995_F_A.JPG e S069_1980_1996_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1996_F_A.JPG e S069_1980_1997_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1997_F_A.JPG e S069_1980_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1998_F_A.jpg e S069_1980_1999_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_1999_F_A.JPG e S069_1980_2000_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2000_F_A.JPG e S069_1980_2001_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2001_F_A.JPG e S069_1980_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2005_F_A.jpg e S069_1980_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2006_F_A.jpg e S069_1980_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2007_F_A.jpg e S069_1980_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2008_F_A.jpg e S069_1980_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2009_F_A.jpg e S069_1980_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2010_F_A.jpg e S069_1980_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2011_F_A.jpg e S069_1980_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2012_F_A.jpg e S069_1980_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2013_F_A.jpg e S069_1980_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2014_F_A.jpg e S069_1980_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2015_F_A.jpg e S069_1980_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2016_F_A.jpg e S069_1980_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2017_F_A.jpg e S069_1980_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2018_F_A.jpg e S069_1980_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2019_F_A.jpg e S069_1980_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2020_F_A.jpg e S069_1980_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S069_1980_2021_F_A.jpg e S069_1980_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_1987_F_A.jpg e S070_1984_1989_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_1989_F_A.jpg e S070_1984_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_1991_F_A.jpg e S070_1984_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_1994_F_A.jpg e S070_1984_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2000_F_A.jpg e S070_1984_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2001_F_A.jpg e S070_1984_2002_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2002_F_A.JPG e S070_1984_2003_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2003_F_A.JPG e S070_1984_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2004_F_A.jpg e S070_1984_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2005_F_A.jpg e S070_1984_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2006_F_A.jpg e S070_1984_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2007_F_A.jpg e S070_1984_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2008_F_A.jpg e S070_1984_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2009_F_A.jpg e S070_1984_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2010_F_A.jpg e S070_1984_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2011_F_A.jpg e S070_1984_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2012_F_A.jpg e S070_1984_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2013_F_A.jpg e S070_1984_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2014_F_A.jpg e S070_1984_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2015_F_A.jpg e S070_1984_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2016_F_A.jpg e S070_1984_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2017_F_A.jpg e S070_1984_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2018_F_A.jpg e S070_1984_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2019_F_A.jpg e S070_1984_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2020_F_A.jpg e S070_1984_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S070_1984_2021_F_A.jpg e S070_1984_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1968_F_A.jpg e S071_1967_1975_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1975_F_A.jpg e S071_1967_1977_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1977_F_A.jpg e S071_1967_1982_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1982_F_A.jpg e S071_1967_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1991_F_A.jpg e S071_1967_1995_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1995_F_A.JPG e S071_1967_1997_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_1997_F_A.JPG e S071_1967_2007_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2007_F_A.JPG e S071_1967_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2008_F_A.jpg e S071_1967_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2009_F_A.jpg e S071_1967_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2010_F_A.jpg e S071_1967_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2011_F_A.jpg e S071_1967_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2012_F_A.jpg e S071_1967_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2013_F_A.jpg e S071_1967_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2014_F_A.jpg e S071_1967_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2015_F_A.jpg e S071_1967_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2016_F_A.jpg e S071_1967_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2017_F_A.jpg e S071_1967_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2018_F_A.jpg e S071_1967_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2019_F_A.jpg e S071_1967_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2020_F_A.jpg e S071_1967_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S071_1967_2021_F_A.jpg e S071_1967_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1972_F_A.jpg e S072_1963_1978_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1978_F_A.jpg e S072_1963_1979_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1979_F_A.JPG e S072_1963_1980_F_A.png
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1980_F_A.png e S072_1963_1981_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1981_F_A.JPG e S072_1963_1985_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1985_F_A.jpg e S072_1963_1987_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1987_F_A.JPG e S072_1963_1989_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1989_F_A.jpg e S072_1963_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1991_F_A.jpg e S072_1963_1992_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1992_F_A.jpg e S072_1963_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1994_F_A.jpg e S072_1963_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1995_F_A.jpg e S072_1963_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1996_F_A.jpg e S072_1963_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1997_F_A.jpg e S072_1963_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1998_F_A.jpg e S072_1963_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_1999_F_A.jpg e S072_1963_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2000_F_A.jpg e S072_1963_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2001_F_A.jpg e S072_1963_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2002_F_A.jpg e S072_1963_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2003_F_A.jpg e S072_1963_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2004_F_A.jpg e S072_1963_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2005_F_A.jpg e S072_1963_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2006_F_A.jpg e S072_1963_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2007_F_A.jpg e S072_1963_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2008_F_A.jpg e S072_1963_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2009_F_A.jpg e S072_1963_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2010_F_A.jpg e S072_1963_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2011_F_A.jpg e S072_1963_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2012_F_A.jpg e S072_1963_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2013_F_A.jpg e S072_1963_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2014_F_A.jpg e S072_1963_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2015_F_A.jpg e S072_1963_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2016_F_A.jpg e S072_1963_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2017_F_A.jpg e S072_1963_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2018_F_A.jpg e S072_1963_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2019_F_A.jpg e S072_1963_2020_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2020_F_A.JPG e S072_1963_2021_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S072_1963_2021_F_A.JPG e S072_1963_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1968_F_E.jpg e S073_1967_1981_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1981_F_E.jpg e S073_1967_1983_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1983_F_E.JPG e S073_1967_1984_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1984_F_E.jpg e S073_1967_1985_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1985_F_E.jpg e S073_1967_1987_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1987_F_E.jpg e S073_1967_1988_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1988_F_E.JPG e S073_1967_1989_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1989_F_E.jpg e S073_1967_1990_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1990_F_E.jpg e S073_1967_1991_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1991_F_E.jpg e S073_1967_1992_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1992_F_E.jpg e S073_1967_1993_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1993_F_E.jpg e S073_1967_1994_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1994_F_E.jpg e S073_1967_1995_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1995_F_E.jpg e S073_1967_1996_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1996_F_E.jpg e S073_1967_1997_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1997_F_E.jpg e S073_1967_1998_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1998_F_E.jpg e S073_1967_1999_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_1999_F_E.jpg e S073_1967_2000_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2000_F_E.jpg e S073_1967_2001_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2001_F_E.jpg e S073_1967_2002_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2002_F_E.jpg e S073_1967_2003_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2003_F_E.jpg e S073_1967_2004_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2004_F_E.jpg e S073_1967_2005_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2005_F_E.jpg e S073_1967_2006_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2006_F_E.jpg e S073_1967_2007_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2007_F_E.jpg e S073_1967_2008_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2008_F_E.jpg e S073_1967_2009_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2009_F_E.jpg e S073_1967_2010_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2010_F_E.jpg e S073_1967_2011_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2011_F_E.jpg e S073_1967_2012_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2012_F_E.jpg e S073_1967_2013_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2013_F_E.jpg e S073_1967_2014_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2014_F_E.jpg e S073_1967_2015_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2015_F_E.jpg e S073_1967_2016_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2016_F_E.jpg e S073_1967_2017_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2017_F_E.jpg e S073_1967_2018_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2018_F_E.jpg e S073_1967_2019_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2019_F_E.jpg e S073_1967_2020_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2020_F_E.jpg e S073_1967_2021_F_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S073_1967_2021_F_E.JPG e S073_1967_2022_F_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_1987_F_A.JPG e S074_1982_1988_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_1988_F_A.PNG e S074_1982_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_1994_F_A.jpg e S074_1982_1995_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_1995_F_A.PNG e S074_1982_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_1999_F_A.jpg e S074_1982_2000_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2000_F_A.PNG e S074_1982_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2001_F_A.jpg e S074_1982_2002_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2002_F_A.PNG e S074_1982_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2003_F_A.jpg e S074_1982_2004_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2004_F_A.PNG e S074_1982_2005_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2005_F_A.PNG e S074_1982_2006_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2006_F_A.PNG e S074_1982_2007_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2007_F_A.PNG e S074_1982_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2008_F_A.jpg e S074_1982_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2009_F_A.jpg e S074_1982_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2010_F_A.jpg e S074_1982_2011_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2011_F_A.PNG e S074_1982_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2012_F_A.jpg e S074_1982_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2013_F_A.jpg e S074_1982_2014_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2014_F_A.JPG e S074_1982_2015_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2015_F_A.PNG e S074_1982_2016_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2016_F_A.PNG e S074_1982_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2017_F_A.jpg e S074_1982_2018_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2018_F_A.PNG e S074_1982_2019_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2019_F_A.PNG e S074_1982_2020_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2020_F_A.PNG e S074_1982_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S074_1982_2021_F_A.jpg e S074_1982_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1977_F_A.JPG e S075_1975_1978_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1978_F_A.JPG e S075_1975_1979_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1979_F_A.JPG e S075_1975_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1991_F_A.jpg e S075_1975_1993_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1993_F_A.JPG e S075_1975_1994_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1994_F_A.JPG e S075_1975_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1995_F_A.jpg e S075_1975_1996_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1996_F_A.JPG e S075_1975_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1997_F_A.jpg e S075_1975_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1998_F_A.jpg e S075_1975_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_1999_F_A.jpg e S075_1975_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2000_F_A.jpg e S075_1975_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2001_F_A.jpg e S075_1975_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2002_F_A.jpg e S075_1975_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2004_F_A.jpg e S075_1975_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2005_F_A.jpg e S075_1975_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2006_F_A.jpg e S075_1975_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2007_F_A.jpg e S075_1975_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2008_F_A.jpg e S075_1975_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2009_F_A.jpg e S075_1975_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2010_F_A.jpg e S075_1975_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2011_F_A.jpg e S075_1975_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2012_F_A.jpg e S075_1975_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2013_F_A.jpg e S075_1975_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2014_F_A.jpg e S075_1975_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2015_F_A.jpg e S075_1975_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2016_F_A.jpg e S075_1975_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2017_F_A.jpg e S075_1975_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2018_F_A.jpg e S075_1975_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2019_F_A.jpg e S075_1975_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2020_F_A.jpg e S075_1975_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S075_1975_2021_F_A.jpg e S075_1975_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_1993_F_A.jpg e S076_1986_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_1998_F_A.jpg e S076_1986_2000_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2000_F_A.JPG e S076_1986_2003_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2003_F_A.JPG e S076_1986_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2007_F_A.jpg e S076_1986_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2008_F_A.jpg e S076_1986_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2009_F_A.jpg e S076_1986_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2010_F_A.jpg e S076_1986_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2011_F_A.jpg e S076_1986_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2012_F_A.jpg e S076_1986_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2013_F_A.jpg e S076_1986_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2014_F_A.jpg e S076_1986_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2015_F_A.jpg e S076_1986_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2016_F_A.jpg e S076_1986_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2017_F_A.jpg e S076_1986_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2018_F_A.jpg e S076_1986_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2019_F_A.jpg e S076_1986_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S076_1986_2021_F_A.jpg e S076_1986_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_1998_F_A.PNG e S078_1987_1999_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_1999_F_A.PNG e S078_1987_2000_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2000_F_A.PNG e S078_1987_2002_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2002_F_A.PNG e S078_1987_2003_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2003_F_A.PNG e S078_1987_2005_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2005_F_A.PNG e S078_1987_2006_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2006_F_A.PNG e S078_1987_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2007_F_A.jpg e S078_1987_2007_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2007_F_A.PNG e S078_1987_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2008_F_A.jpg e S078_1987_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2009_F_A.jpg e S078_1987_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2010_F_A.jpg e S078_1987_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2012_F_A.jpg e S078_1987_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2013_F_A.jpg e S078_1987_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2014_F_A.jpg e S078_1987_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2015_F_A.jpg e S078_1987_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2016_F_A.jpg e S078_1987_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2017_F_A.jpg e S078_1987_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2018_F_A.jpg e S078_1987_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2019_F_A.jpg e S078_1987_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2020_F_A.jpg e S078_1987_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S078_1987_2021_F_A.jpg e S078_1987_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_1988_F_A.JPG e S079_1988_1997_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_1997_F_A.JPG e S079_1988_1998_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_1998_F_A.PNG e S079_1988_2004_F_A.PNG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2004_F_A.PNG e S079_1988_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2005_F_A.jpg e S079_1988_2007_F_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2007_F_A.jpeg e S079_1988_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2008_F_A.jpg e S079_1988_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2009_F_A.jpg e S079_1988_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2010_F_A.jpg e S079_1988_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2011_F_A.jpg e S079_1988_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2012_F_A.jpg e S079_1988_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2013_F_A.jpg e S079_1988_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2014_F_A.jpg e S079_1988_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2015_F_A.jpg e S079_1988_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2016_F_A.jpg e S079_1988_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2017_F_A.jpg e S079_1988_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2018_F_A.jpg e S079_1988_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2019_F_A.jpg e S079_1988_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2020_F_A.jpg e S079_1988_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S079_1988_2021_F_A.jpg e S079_1988_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_1979_F_A.JPG e S080_1978_1981_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_1981_F_A.JPG e S080_1978_1997_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_1997_F_A.JPG e S080_1978_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_1999_F_A.jpg e S080_1978_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2002_F_A.jpg e S080_1978_2003_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2003_F_A.JPG e S080_1978_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2004_F_A.jpg e S080_1978_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2005_F_A.jpg e S080_1978_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2006_F_A.jpg e S080_1978_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2007_F_A.jpg e S080_1978_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2008_F_A.jpg e S080_1978_2009_F_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2009_F_A.jpeg e S080_1978_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2010_F_A.jpg e S080_1978_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2011_F_A.jpg e S080_1978_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2012_F_A.jpg e S080_1978_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2013_F_A.jpg e S080_1978_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2014_F_A.jpg e S080_1978_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2015_F_A.jpg e S080_1978_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2016_F_A.jpg e S080_1978_2017_F_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2017_F_A.jpeg e S080_1978_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2018_F_A.jpg e S080_1978_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2019_F_A.jpg e S080_1978_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S080_1978_2021_F_A.jpg e S080_1978_2022_F_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1982_F_A.png e S081_1966_1983_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1983_F_A.JPG e S081_1966_1984_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1984_F_A.jpg e S081_1966_1985_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1985_F_A.jpg e S081_1966_1986_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1986_F_A.jpg e S081_1966_1987_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1987_F_A.jpg e S081_1966_1988_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1988_F_A.jpg e S081_1966_1989_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1989_F_A.JPG e S081_1966_1990_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1990_F_A.jpg e S081_1966_1992_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1992_F_A.jpg e S081_1966_1993_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1993_F_A.JPG e S081_1966_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1994_F_A.jpg e S081_1966_1995_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1995_F_A.jpg e S081_1966_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1996_F_A.jpg e S081_1966_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1997_F_A.jpg e S081_1966_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1998_F_A.jpg e S081_1966_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_1999_F_A.jpg e S081_1966_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2000_F_A.jpg e S081_1966_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2001_F_A.jpg e S081_1966_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2002_F_A.jpg e S081_1966_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2003_F_A.jpg e S081_1966_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2004_F_A.jpg e S081_1966_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2005_F_A.jpg e S081_1966_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2006_F_A.jpg e S081_1966_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2007_F_A.jpg e S081_1966_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2008_F_A.jpg e S081_1966_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2009_F_A.jpg e S081_1966_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2010_F_A.jpg e S081_1966_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2011_F_A.jpg e S081_1966_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2012_F_A.jpg e S081_1966_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2013_F_A.jpg e S081_1966_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2014_F_A.jpg e S081_1966_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2015_F_A.jpg e S081_1966_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2016_F_A.jpg e S081_1966_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2017_F_A.jpg e S081_1966_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2018_F_A.jpg e S081_1966_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2019_F_A.jpg e S081_1966_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2020_F_A.jpg e S081_1966_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S081_1966_2021_F_A.jpg e S081_1966_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1986_M_E.JPG e S083_1965_1993_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1993_M_E.JPG e S083_1965_1995_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1995_M_E.JPG e S083_1965_1997_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1997_M_E.JPG e S083_1965_1998_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1998_M_E.JPG e S083_1965_1999_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_1999_M_E.jpg e S083_1965_2000_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2000_M_E.jpg e S083_1965_2001_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2001_M_E.jpg e S083_1965_2002_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2002_M_E.jpg e S083_1965_2003_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2003_M_E.jpg e S083_1965_2004_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2004_M_E.jpg e S083_1965_2006_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2006_M_E.jpg e S083_1965_2007_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2007_M_E.jpg e S083_1965_2008_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2008_M_E.jpg e S083_1965_2009_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2009_M_E.jpg e S083_1965_2010_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2010_M_E.JPG e S083_1965_2011_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2011_M_E.jpg e S083_1965_2012_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2012_M_E.jpg e S083_1965_2013_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2013_M_E.jpg e S083_1965_2014_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2014_M_E.jpg e S083_1965_2016_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2016_M_E.jpg e S083_1965_2017_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2017_M_E.jpg e S083_1965_2018_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2018_M_E.jpg e S083_1965_2019_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2019_M_E.jpg e S083_1965_2020_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2020_M_E.jpg e S083_1965_2021_M_E.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S083_1965_2021_M_E.JPG e S083_1965_2022_M_E.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_1982_M_A.png e S084_1978_1988_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_1988_M_A.JPG e S084_1978_1993_M_A.png
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_1993_M_A.png e S084_1978_1997_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_1997_M_A.jpg e S084_1978_2002_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2002_M_A.JPG e S084_1978_2003_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2003_M_A.jpg e S084_1978_2004_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2004_M_A.jpg e S084_1978_2005_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2005_M_A.jpg e S084_1978_2006_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2006_M_A.jpg e S084_1978_2007_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2007_M_A.jpg e S084_1978_2008_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2008_M_A.jpg e S084_1978_2009_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2009_M_A.jpg e S084_1978_2010_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2010_M_A.jpg e S084_1978_2011_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2011_M_A.jpg e S084_1978_2012_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2012_M_A.jpg e S084_1978_2013_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2013_M_A.jpg e S084_1978_2014_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2014_M_A.jpg e S084_1978_2015_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2015_M_A.jpg e S084_1978_2016_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2016_M_A.jpg e S084_1978_2017_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2017_M_A.jpg e S084_1978_2018_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2018_M_A.jpg e S084_1978_2019_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2019_M_A.jpg e S084_1978_2020_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2020_M_A.jpg e S084_1978_2021_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S084_1978_2021_M_A.jpg e S084_1978_2022_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1970_F_A.jpg e S085_1954_1972_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1972_F_A.jpg e S085_1954_1973_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1973_F_A.jpg e S085_1954_1974_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1974_F_A.jpg e S085_1954_1975_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1975_F_A.jpg e S085_1954_1976_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1976_F_A.jpg e S085_1954_1977_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1977_F_A.jpg e S085_1954_1978_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1978_F_A.jpg e S085_1954_1979_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1979_F_A.jpg e S085_1954_1980_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1980_F_A.jpg e S085_1954_1981_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1981_F_A.jpg e S085_1954_1982_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1982_F_A.jpg e S085_1954_1983_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1983_F_A.jpg e S085_1954_1984_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1984_F_A.jpg e S085_1954_1985_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1985_F_A.jpg e S085_1954_1986_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1986_F_A.JPG e S085_1954_1987_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1987_F_A.jpg e S085_1954_1988_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1988_F_A.jpg e S085_1954_1989_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1989_F_A.jpg e S085_1954_1990_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1990_F_A.jpg e S085_1954_1991_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1991_F_A.jpg e S085_1954_1992_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1992_F_A.jpg e S085_1954_1993_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1993_F_A.jpg e S085_1954_1994_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1994_F_A.jpg e S085_1954_1995_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1995_F_A.JPG e S085_1954_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1996_F_A.jpg e S085_1954_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1997_F_A.jpg e S085_1954_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1998_F_A.jpg e S085_1954_1999_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_1999_F_A.jpg e S085_1954_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2000_F_A.jpg e S085_1954_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2001_F_A.jpg e S085_1954_2002_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2002_F_A.jpg e S085_1954_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2003_F_A.jpg e S085_1954_2004_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2004_F_A.jpg e S085_1954_2005_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2005_F_A.jpg e S085_1954_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2006_F_A.jpg e S085_1954_2007_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2007_F_A.jpg e S085_1954_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2008_F_A.jpg e S085_1954_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2009_F_A.jpg e S085_1954_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2010_F_A.jpg e S085_1954_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2011_F_A.jpg e S085_1954_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2012_F_A.jpg e S085_1954_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2013_F_A.jpg e S085_1954_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2014_F_A.jpg e S085_1954_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2015_F_A.jpg e S085_1954_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2016_F_A.jpg e S085_1954_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2017_F_A.jpg e S085_1954_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2018_F_A.jpg e S085_1954_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2019_F_A.jpg e S085_1954_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2020_F_A.jpg e S085_1954_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S085_1954_2021_F_A.jpg e S085_1954_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1987_M_A.jpg e S086_1986_1988_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1988_M_A.JPG e S086_1986_1990_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1990_M_A.JPG e S086_1986_1995_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1995_M_A.JPG e S086_1986_1996_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1996_M_A.JPG e S086_1986_1999_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_1999_M_A.jpg e S086_1986_2001_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2001_M_A.JPG e S086_1986_2003_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2003_M_A.JPG e S086_1986_2005_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2005_M_A.jpg e S086_1986_2006_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2006_M_A.JPG e S086_1986_2007_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2007_M_A.jpg e S086_1986_2008_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2008_M_A.jpg e S086_1986_2009_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2009_M_A.jpg e S086_1986_2010_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2010_M_A.jpg e S086_1986_2011_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2011_M_A.jpg e S086_1986_2012_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2012_M_A.jpg e S086_1986_2013_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2013_M_A.jpg e S086_1986_2014_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2014_M_A.jpg e S086_1986_2015_M_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2015_M_A.jpeg e S086_1986_2016_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2016_M_A.JPG e S086_1986_2017_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2017_M_A.jpg e S086_1986_2018_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2018_M_A.jpg e S086_1986_2019_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2019_M_A.jpg e S086_1986_2020_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2020_M_A.jpg e S086_1986_2021_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S086_1986_2021_M_A.jpg e S086_1986_2022_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_1993_F_A.jpg e S087_1986_1997_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_1997_F_A.jpg e S087_1986_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2006_F_A.jpg e S087_1986_2007_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2007_F_A.JPG e S087_1986_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2009_F_A.jpg e S087_1986_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2010_F_A.jpg e S087_1986_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2011_F_A.jpg e S087_1986_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2012_F_A.jpg e S087_1986_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2013_F_A.jpg e S087_1986_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2014_F_A.jpg e S087_1986_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2015_F_A.jpg e S087_1986_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2016_F_A.jpg e S087_1986_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2017_F_A.jpg e S087_1986_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2018_F_A.jpg e S087_1986_2019_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2019_F_A.jpg e S087_1986_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S087_1986_2020_F_A.jpg e S087_1986_2022_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_1989_M_A.png e S088_1987_1997_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_1997_M_A.JPG e S088_1987_1999_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_1999_M_A.JPG e S088_1987_2001_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2001_M_A.JPG e S088_1987_2003_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2003_M_A.jpg e S088_1987_2004_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2004_M_A.jpg e S088_1987_2005_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2005_M_A.jpg e S088_1987_2006_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2006_M_A.jpg e S088_1987_2007_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2007_M_A.jpg e S088_1987_2008_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2008_M_A.jpg e S088_1987_2009_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2009_M_A.jpg e S088_1987_2010_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2010_M_A.jpg e S088_1987_2011_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2011_M_A.jpg e S088_1987_2012_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2012_M_A.jpg e S088_1987_2013_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2013_M_A.jpg e S088_1987_2014_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2014_M_A.jpg e S088_1987_2015_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2015_M_A.jpg e S088_1987_2016_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2016_M_A.jpg e S088_1987_2017_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2017_M_A.jpg e S088_1987_2018_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2018_M_A.jpg e S088_1987_2019_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2019_M_A.jpg e S088_1987_2020_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2020_M_A.jpg e S088_1987_2021_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S088_1987_2021_M_A.jpg e S088_1987_2022_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1957_M_A.JPG e S089_1946_1961_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1961_M_A.JPG e S089_1946_1964_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1964_M_A.jpg e S089_1946_1968_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1968_M_A.JPG e S089_1946_1969_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1969_M_A.JPG e S089_1946_1979_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1979_M_A.JPG e S089_1946_1988_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1988_M_A.JPG e S089_1946_1995_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1995_M_A.JPG e S089_1946_1999_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_1999_M_A.jpg e S089_1946_2002_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2002_M_A.JPG e S089_1946_2003_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2003_M_A.JPG e S089_1946_2004_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2004_M_A.jpg e S089_1946_2005_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2005_M_A.jpg e S089_1946_2007_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2007_M_A.jpg e S089_1946_2010_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2010_M_A.JPG e S089_1946_2011_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2011_M_A.jpg e S089_1946_2012_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2012_M_A.JPG e S089_1946_2013_M_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2013_M_A.JPG e S089_1946_2014_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2014_M_A.jpg e S089_1946_2015_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2015_M_A.jpg e S089_1946_2016_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2016_M_A.jpg e S089_1946_2017_M_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2017_M_A.jpeg e S089_1946_2018_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2018_M_A.jpg e S089_1946_2019_M_A.jpeg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2019_M_A.jpeg e S089_1946_2020_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2020_M_A.jpg e S089_1946_2021_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S089_1946_2021_M_A.jpg e S089_1946_2022_M_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1952_F_A.jpg e S090_1949_1954_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1954_F_A.jpg e S090_1949_1957_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1957_F_A.jpg e S090_1949_1964_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1964_F_A.jpg e S090_1949_1968_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1968_F_A.jpg e S090_1949_1971_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1971_F_A.JPG e S090_1949_1976_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1976_F_A.JPG e S090_1949_1977_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1977_F_A.JPG e S090_1949_1979_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1979_F_A.JPG e S090_1949_1981_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1981_F_A.JPG e S090_1949_1986_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1986_F_A.jpg e S090_1949_1988_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1988_F_A.JPG e S090_1949_1992_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1992_F_A.JPG e S090_1949_1993_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1993_F_A.jpg e S090_1949_1994_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1994_F_A.JPG e S090_1949_1995_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1995_F_A.JPG e S090_1949_1996_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1996_F_A.jpg e S090_1949_1997_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1997_F_A.JPG e S090_1949_1998_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1998_F_A.jpg e S090_1949_1999_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_1999_F_A.JPG e S090_1949_2000_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2000_F_A.jpg e S090_1949_2001_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2001_F_A.jpg e S090_1949_2002_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2002_F_A.JPG e S090_1949_2003_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2003_F_A.jpg e S090_1949_2004_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2004_F_A.JPG e S090_1949_2005_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2005_F_A.JPG e S090_1949_2006_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2006_F_A.jpg e S090_1949_2007_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2007_F_A.JPG e S090_1949_2008_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2008_F_A.jpg e S090_1949_2009_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2009_F_A.jpg e S090_1949_2010_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2010_F_A.jpg e S090_1949_2011_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2011_F_A.jpg e S090_1949_2012_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2012_F_A.jpg e S090_1949_2013_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2013_F_A.jpg e S090_1949_2014_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2014_F_A.jpg e S090_1949_2015_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2015_F_A.jpg e S090_1949_2016_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2016_F_A.jpg e S090_1949_2017_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2017_F_A.jpg e S090_1949_2018_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2018_F_A.jpg e S090_1949_2019_F_A.JPG
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2019_F_A.JPG e S090_1949_2020_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2020_F_A.jpg e S090_1949_2021_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S090_1949_2021_F_A.jpg e S090_1949_2022_F_A.jpg
+Exception:No module named 'dlib'
+
