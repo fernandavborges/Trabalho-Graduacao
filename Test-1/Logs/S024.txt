@@ -1,99 +1,371 @@
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_1983_F_A.JPG e S024_1952_1986_F_A.JPG
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7056,4096] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_1983_F_A.JPG e S024_1952_1986_F_A.JPG
+Exception:Graph execution error:
+
+Detected at node 'ResNet34/conv1_conv/Conv2D' defined at (most recent call last):
+    File "/usr/lib/python3.8/threading.py", line 890, in _bootstrap
+      self._bootstrap_inner()
+    File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+      self.run()
+    File "/usr/lib/python3.8/threading.py", line 870, in run
+      self._target(*self._args, **self._kwargs)
+    File "Thread_Test_1-CPU.py", line 70, in recognition_thread
+      result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/deepface/DeepFace.py", line 163, in verify
+      img1_representation = represent(img_path = img1_path
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/deepface/DeepFace.py", line 768, in represent
+      embedding = model.predict(img)[0].tolist()
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2350, in predict
+      tmp_batch_outputs = self.predict_function(iterator)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2137, in predict_function
+      return step_function(self, iterator)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2123, in step_function
+      outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2111, in run_step
+      outputs = model.predict_step(data)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2079, in predict_step
+      return self(x, training=False)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 561, in __call__
+      return super().__call__(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/base_layer.py", line 1132, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/functional.py", line 511, in call
+      return self._run_internal_graph(inputs, training=training, mask=mask)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/functional.py", line 668, in _run_internal_graph
+      outputs = node.layer(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/base_layer.py", line 1132, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/layers/convolutional/base_conv.py", line 283, in call
+      outputs = self.convolution_op(inputs, self.kernel)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/layers/convolutional/base_conv.py", line 255, in convolution_op
+      return tf.nn.convolution(
+Node: 'ResNet34/conv1_conv/Conv2D'
+No algorithm worked!  Error messages:
+  Profiling failure on CUDNN engine 1#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine 1: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine 0#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine 0: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16777216 bytes.
+  Profiling failure on CUDNN engine 2#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 18131968 bytes.
+  Profiling failure on CUDNN engine 2: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 18131968 bytes.
+  Profiling failure on CUDNN engine 4#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 42742528 bytes.
+  Profiling failure on CUDNN engine 4: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 42742528 bytes.
+  Profiling failure on CUDNN engine 6#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16818176 bytes.
+  Profiling failure on CUDNN engine 6: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 16818176 bytes.
+  Profiling failure on CUDNN engine 5#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 18195968 bytes.
+  Profiling failure on CUDNN engine 5: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 18195968 bytes.
+  Profiling failure on CUDNN engine 7#TC: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 137829376 bytes.
+  Profiling failure on CUDNN engine 7: RESOURCE_EXHAUSTED: Out of memory while trying to allocate 137829376 bytes.
+	 [[{{node ResNet34/conv1_conv/Conv2D}}]] [Op:__inference_predict_function_2478830]
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_1983_F_A.JPG e S024_1952_1986_F_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_1983_F_A.JPG e S024_1952_1986_F_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
 Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,512,512] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomGetKeyCounter_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory
-	 [[{{node StatelessRandomGetKeyCounter/_6}}]]
-Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
- [Op:StatelessRandomGetKeyCounter]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet512.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomGetKeyCounter_device_/job:localhost/replica:0/task:0/device:GPU:0}} SameWorkerRecvDone unable to allocate output tensor. Key: /job:localhost/replica:0/task:0/device:GPU:0;d18eb12850fdb7b3;/job:localhost/replica:0/task:0/device:GPU:0;edge_3_StatelessRandomGetKeyCounter;0:0
-	 [[{{node StatelessRandomGetKeyCounter/_4}}]]
-Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
- [Op:StatelessRandomGetKeyCounter]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: OpenFace.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,128,256] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepFace.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3025,1296,16] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepID.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: ArcFace.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:{{function_node __wrapped__Mul_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:Mul]
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Dlib.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
-Exception:Error while calling cudaMalloc(&data, new_size*sizeof(float)) in file /home/leandrodias/Projetos/dlib/dlib/cuda/gpu_data.cpp:221. code: 2, reason: out of memory
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: SFace.
-Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Imagem S024_1952_1986_F_A.JPG e S024_1952_2002_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7,7,512,4096] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,256,384] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet512.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,80,192] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: OpenFace.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,64,192] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepFace.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3025,1296,16] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepID.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: ArcFace.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:{{function_node __wrapped__StatelessTruncatedNormalV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,64,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessTruncatedNormalV2]
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Dlib.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
-Exception:Error while calling cudaMalloc(&data, new_size*sizeof(float)) in file /home/leandrodias/Projetos/dlib/dlib/cuda/gpu_data.cpp:221. code: 2, reason: out of memory
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: SFace.
-Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Imagem S024_1952_2002_F_A.jpg e S024_1952_2004_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomGetKeyCounter_device_/job:localhost/replica:0/task:0/device:GPU:0}} SameWorkerRecvDone unable to allocate output tensor. Key: /job:localhost/replica:0/task:0/device:GPU:0;d18eb12850fdb7b3;/job:localhost/replica:0/task:0/device:GPU:0;edge_3_StatelessRandomGetKeyCounter;0:0
-	 [[{{node StatelessRandomGetKeyCounter/_4}}]]
-Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
- [Op:StatelessRandomGetKeyCounter]
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet.
-Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
-Exception:{{function_node __wrapped__AddV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:AddV2]
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet512.
-Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,32,32] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: OpenFace.
-Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
-Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7,7,3,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepFace.
-Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2004_F_A.jpg e S024_1952_2006_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2006_F_A.jpg e S024_1952_2010_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2010_F_A.jpg e S024_1952_2012_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2012_F_A.jpg e S024_1952_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2016_F_A.jpg e S024_1952_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S024_1952_2018_F_A.jpg e S024_1952_2022_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
