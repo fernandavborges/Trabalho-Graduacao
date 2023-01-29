@@ -61,26 +61,29 @@ def recognition_thread(subject):
     for file in files: 
         print('File: ',file)
         if(file != '.gitignore'):
-            if file[0:4] == subject and first_subject:
-                results = DataFrame(columns=COLUMNS)
-                first_subject = False
-            for recognizer in models_recognition:
-                print('Detector: ' + models_detection[3] + '\n' + 'Recognizer: ' + recognizer + '\n')
-                if previous_image != '':
-                    img1_path = str(Path().absolute() / 'BD' / previous_image)
-                    img2_path = str(Path().absolute() / 'BD' / file)
-                    try:
-                        result = recognition_function(img1_path=img1_path, img2_path=img2_path, recognizer=recognizer) 
-                        results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
-                    except Exception as exception:
-                        print('Exception:' + str(exception))
-                        file_logs.write('Detector: ' + models_detection[3]  + '. Recognizer: ' + recognizer + '.\n') 
-                        file_logs.write('Imagem ' + previous_image + ' e ' + file + '\n') 
-                        file_logs.write('Exception:' + str(exception) + '\n\n')
-            previous_image = file
+            if file[0:4] == subject:
+                if(first_subject):
+                    results = DataFrame(columns=COLUMNS)
+                    first_subject = False
+                    previous_image = file
+                else:
+                    for recognizer in models_recognition:
+                        print('Detector: ' + models_detection[3] + '\n' + 'Recognizer: ' + recognizer + '\n')
+                        if previous_image != '':
+                            img1_path = str(Path().absolute() / 'BD' / previous_image)
+                            img2_path = str(Path().absolute() / 'BD' / file)
+                            try:
+                                result = recognition_function(img1_path=img1_path, img2_path=img2_path, recognizer=recognizer) 
+                                results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
+                            except Exception as exception:
+                                print('Exception:' + str(exception))
+                                file_logs.write('Detector: ' + models_detection[3]  + '. Recognizer: ' + recognizer + '.\n') 
+                                file_logs.write('Imagem ' + previous_image + ' e ' + file + '\n') 
+                                file_logs.write('Exception:' + str(exception) + '\n\n')
+                    previous_image = file
 
             if (int(file[1:4]) > int(subject[1:4])):
-                continue
+                break
 
     name_csv = subject + '.csv'
     path_csv = results_folder / name_csv

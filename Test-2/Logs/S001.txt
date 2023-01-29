@@ -1,0 +1,12 @@
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S001_1967_1970_F_A.jpg e S001_1967_1970_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S001_1967_1970_F_A.jpg e S001_1967_1975_F_A.jpg
+Exception:No module named 'dlib'
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S001_1967_1975_F_A.jpg e S001_1967_1980_F_A.JPG
+Exception:No module named 'dlib'
+
