@@ -52,6 +52,7 @@ def recognition_function(img1_path, img2_path, recognizer):
 def recognition_thread(subject):
     files = os.listdir(PATH_DIRECTORY)
     files.sort()
+    print(files)
     first_subject = True
     previous_image = ''
     file_logs_name =  subject + '.txt'
