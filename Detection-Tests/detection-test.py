@@ -3,12 +3,12 @@ import os
 import matplotlib.pyplot as plt
 
 detection_models = [
-  'opencv', 
-  'ssd', 
-  'dlib', 
-  'mtcnn', 
-  'retinaface', 
-  'mediapipe'
+  #'opencv', 
+  #'ssd', 
+  #'dlib', 
+  'mtcnn'
+  #'retinaface', 
+  #'mediapipe'
 ]
 
 folder = '../Banco-de-Imagens/'
