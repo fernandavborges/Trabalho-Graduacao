@@ -1,0 +1,108 @@
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7,7,512,4096] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomGetKeyCounter_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory
+	 [[{{node StatelessRandomGetKeyCounter/_6}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:StatelessRandomGetKeyCounter]
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,256,384] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,128,256] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3025,1296,16] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:{{function_node __wrapped__StatelessTruncatedNormalV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,512,512] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessTruncatedNormalV2]
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:Error while calling cudaMalloc(&data, new_size*sizeof(float)) in file /home/leandrodias/Projetos/dlib/dlib/cuda/gpu_data.cpp:221. code: 2, reason: out of memory
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S002_1966_1974_F_A.jpg e S002_1966_1982_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7,7,512,4096] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__Mul_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:Mul]
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,80,192] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,64,192] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3025,1296,16] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:{{function_node __wrapped__AddV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:AddV2]
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:Error while calling cudaMalloc(&data, new_size*sizeof(float)) in file /home/leandrodias/Projetos/dlib/dlib/cuda/gpu_data.cpp:221. code: 2, reason: out of memory
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S002_1966_1982_F_A.jpg e S002_1966_1985_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,64,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__AddV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:AddV2]
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__Mul_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:Mul]
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__StatelessRandomUniformV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[7,7,3,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessRandomUniformV2]
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__Mul_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:Mul]
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:{{function_node __wrapped__StatelessTruncatedNormalV2_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3,3,64,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:StatelessTruncatedNormalV2]
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S002_1966_1985_F_A.jpg e S002_1966_1990_F_A.jpg
+Exception:Error while calling cudaMalloc(&data, new_size*sizeof(float)) in file /home/leandrodias/Projetos/dlib/dlib/cuda/gpu_data.cpp:221. code: 2, reason: out of memory
+
+Detector: mtcnn. Recognizer: SFace.
