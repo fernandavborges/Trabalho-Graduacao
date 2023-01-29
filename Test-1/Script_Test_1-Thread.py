@@ -45,6 +45,10 @@ results_folder = Path().absolute() / 'Results/CSVs/'
 file_logs_path = Path().absolute() / 'Logs/'
 
 @jit(target_backend='cuda')  
+def recognition_function(img1_path, img2_path, recognizer):
+    result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
+    return result 
+
 def recognition_thread(subject):
     files = os.listdir(PATH_DIRECTORY)
     files.sort()
@@ -54,6 +58,7 @@ def recognition_thread(subject):
     file_logs = open(file_logs_path / file_logs_name, "w")
  
     for file in files: 
+        print('File: ',file)
         if(file != '.gitignore'):
             if file[0:4] == subject and first_subject:
                 results = DataFrame(columns=COLUMNS)
@@ -64,7 +69,7 @@ def recognition_thread(subject):
                     img1_path = str(Path().absolute() / 'BD' / previous_image)
                     img2_path = str(Path().absolute() / 'BD' / file)
                     try:
-                        result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3] )
+                        result = recognition_function(img1_path=img1_path, img2_path=img2_path, recognizer=recognizer) 
                         results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
                     except Exception as exception:
                         print('Exception:' + str(exception))
@@ -87,6 +92,6 @@ if __name__ == "__main__":
 
     for file in files:
         if file[0:4] not in subjects:
-            print('Thread sendo lancada!')
             threading.Thread(target=recognition_thread, args=(file[0:4],)).start()
+            print('Thread lancada!')
             subjects.append(file[0:4])
