@@ -87,6 +87,9 @@ def recognition_thread(subject):
 if __name__ == "__main__":
     files = os.listdir(PATH_DIRECTORY)
     subjects = []
+    csv = os.listdir(results_folder)
+    for c in csv:  
+        subjects.append(c[0:4])
 
     for file in files:
         if file[0:4] not in subjects:

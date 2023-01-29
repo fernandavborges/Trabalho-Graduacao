@@ -7,12 +7,11 @@ import os
 from pathlib import Path
 from pandas import DataFrame
 import threading
-from numba import jit, cuda
 
 # Chosing the database
-PATH_DIRECTORY = Path().absolute() / 'BD'
+PATH_DIRECTORY = Path().absolute() / 'BD-FGNET'
 
-COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
+COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
 distance_metrics = [
   "cosine", 
@@ -44,11 +43,6 @@ models_detection = [
 results_folder = Path().absolute() / 'Results/CSVs/'
 file_logs_path = Path().absolute() / 'Logs/'
 
-@jit(target_backend='cuda')  
-def recognition_function(img1_path, img2_path, recognizer):
-    result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
-    return result 
-
 def recognition_thread(subject):
     files = os.listdir(PATH_DIRECTORY)
     files.sort()
@@ -62,7 +56,7 @@ def recognition_thread(subject):
         print('File: ',file)
         if(file != '.gitignore'):
             if file[0:4] == subject:
-                if(first_subject):
+                if (first_subject):
                     results = DataFrame(columns=COLUMNS)
                     first_subject = False
                     previous_image = file
@@ -70,11 +64,11 @@ def recognition_thread(subject):
                     for recognizer in models_recognition:
                         print('Detector: ' + models_detection[3] + '\n' + 'Recognizer: ' + recognizer + '\n')
                         if previous_image != '':
-                            img1_path = str(Path().absolute() / 'BD' / previous_image)
-                            img2_path = str(Path().absolute() / 'BD' / file)
+                            img1_path = str(Path().absolute() / 'BD-FGNET' / previous_image)
+                            img2_path = str(Path().absolute() / 'BD-FGNET' / file)
                             try:
-                                result = recognition_function(img1_path=img1_path, img2_path=img2_path, recognizer=recognizer) 
-                                results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
+                                result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = detector)
+                                results = results.append({'Image 1':previous_image, 'Age 1':previous_image[4:6], 'Image 2':file, 'Age 2':file[4:6], 'Distance Metric':distance_metrics[0], 'Detection Model':detector, 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
                             except Exception as exception:
                                 print('Exception:' + str(exception))
                                 file_logs.write('Detector: ' + models_detection[3]  + '. Recognizer: ' + recognizer + '.\n') 
@@ -82,7 +76,7 @@ def recognition_thread(subject):
                                 file_logs.write('Exception:' + str(exception) + '\n\n')
                     previous_image = file
 
-            if (int(file[1:4]) > int(subject[1:4])):
+            if (int(file[0:3]) > int(subject[0:3])):
                 break
 
     name_csv = subject + '.csv'
@@ -91,7 +85,6 @@ def recognition_thread(subject):
     file_logs.close()
 
 if __name__ == "__main__":
-    print()
     files = os.listdir(PATH_DIRECTORY)
     subjects = []
     csv = os.listdir(results_folder)
