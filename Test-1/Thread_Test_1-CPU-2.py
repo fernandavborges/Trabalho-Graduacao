@@ -46,6 +46,7 @@ file_logs_path = Path().absolute() / 'Logs/'
 def recognition_thread(subjects):
     files = os.listdir(PATH_DIRECTORY)
     files.sort()
+    print(files)
     first_subject = True
     previous_image = ''
     subject = ''
@@ -108,6 +109,8 @@ if __name__ == "__main__":
     for i in range(n_threads):
         if(i == n_threads - 1):
             threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:],)).start() 
+            print('Thread lancada! - Sujeitos:', thread_subjects[i*n_subjects:])
         else:
             threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:(i+1)*n_subjects],)).start()
-        print('Thread lancada!')
+            print('Thread lancada! - Sujeitos:', thread_subjects[i*n_subjects:(i+1)*n_subjects])
+        
