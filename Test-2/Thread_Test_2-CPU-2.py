@@ -43,7 +43,7 @@ models_detection = [
 results_folder = Path().absolute() / 'Results/CSVs/'
 file_logs_path = Path().absolute() / 'Logs/'
 
-def recognition_thread(subjects, files):
+def recognition_thread(subjects, FILES):
     first_subject = True
     previous_image = ''
     subject = ''

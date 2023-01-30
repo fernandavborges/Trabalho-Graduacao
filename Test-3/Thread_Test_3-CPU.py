@@ -10,6 +10,7 @@ import threading
 
 # Chosing the database
 PATH_DIRECTORY = Path().absolute() / 'BD-FGNET'
+#os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 

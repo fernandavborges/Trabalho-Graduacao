@@ -91,8 +91,12 @@ if __name__ == "__main__":
     for c in csv:  
         subjects.append(c[0:4])
 
-    for file in files:
-        if file[0:4] not in subjects:
-            threading.Thread(target=recognition_thread, args=(file[0:4],)).start()
-            print('Thread lancada!')
-            subjects.append(file[0:4])
+    auxiliar = ['S001', 'S002']
+    for i in auxiliar:
+        threading.Thread(target=recognition_thread, args=(i,)).start()
+        print('Thread lancada!')
+    # for file in files:
+    #     if file[0:4] not in subjects:
+    #         threading.Thread(target=recognition_thread, args=(file[0:4],)).start()
+    #         print('Thread lancada!')
+    #         subjects.append(file[0:4])
