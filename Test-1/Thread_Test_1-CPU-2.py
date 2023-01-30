@@ -92,6 +92,7 @@ def recognition_thread(subjects):
 
 if __name__ == "__main__":
     files = os.listdir(PATH_DIRECTORY)
+    print(PATH_DIRECTORY)
     files.sort()
     subjects = []
     thread_subjects = []
