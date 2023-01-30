@@ -1,6 +1,0 @@
-,Image 1,Year 1,Image 2,Year 2,Distance Metric,Detection Model,Recognition Model,Distance Result,Recognition Result
-0,S062_1958_1976_F_E.jpg,1976,S062_1958_1979_F_E.JPG,1979,cosine,mtcnn,VGG-Face,0.5220674787584001,False
-1,S062_1958_1976_F_E.jpg,1976,S062_1958_1979_F_E.JPG,1979,cosine,mtcnn,Facenet,0.6277166799769003,False
-2,S062_1958_1976_F_E.jpg,1976,S062_1958_1979_F_E.JPG,1979,cosine,mtcnn,Facenet512,0.600500465957789,False
-3,S062_1958_1976_F_E.jpg,1976,S062_1958_1979_F_E.JPG,1979,cosine,mtcnn,OpenFace,0.22606406562242498,False
-4,S062_1958_1976_F_E.jpg,1976,S062_1958_1979_F_E.JPG,1979,cosine,mtcnn,DeepID,0.07488031093944958,False

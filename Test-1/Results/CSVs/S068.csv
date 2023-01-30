@@ -1,4 +1,0 @@
-,Image 1,Year 1,Image 2,Year 2,Distance Metric,Detection Model,Recognition Model,Distance Result,Recognition Result
-0,S068_1967_1985_M_A.JPG,1985,S068_1967_1990_M_A.jpg,1990,cosine,mtcnn,Facenet,0.45221154703311195,False
-1,S068_1967_1985_M_A.JPG,1985,S068_1967_1990_M_A.jpg,1990,cosine,mtcnn,Facenet512,0.4973878813471495,False
-2,S068_1967_1985_M_A.JPG,1985,S068_1967_1990_M_A.jpg,1990,cosine,mtcnn,OpenFace,0.1953951495627495,False
