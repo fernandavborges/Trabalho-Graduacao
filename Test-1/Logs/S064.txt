@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S064_1966_1974_F_E.jpg e S064_1966_1977_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
