@@ -14,20 +14,19 @@ NEW_BD_PATH = Path().absolute() / 'BD'
 
 # Subjects who did not admit the plastic and not even a specialist attested about
 rejected_subjects = ['S077', 'S082']
-subject = ''
 subjects = []
 n_subjects = 81 # final number of individuals to be selected
 n_images = 10 # number of images per individual
 
 for file in files:
-    if(file[0:4] != subject and file[0:4] not in rejected_subjects):
+    if(file[0:4] not in subjects and file[0:4] not in rejected_subjects):
         subjects.append(file[0:4])
-        subject = file[0:4]
 
 # randomly selects the desired amount among the available subjects
+print('Subjects available: ', subjects.sort())
 random.seed()
 selected = random.sample(subjects, k=n_subjects)
-print(selected)
+print('Subjects selected: ', selected)
 
 # Randomly selecting the images after taking the extremes, and taking care to take the same amount in the first half of the photos as in the second
 # for select in selected:

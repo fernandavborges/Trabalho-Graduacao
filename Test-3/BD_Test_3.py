@@ -12,14 +12,15 @@ files = os.listdir(PATH_DIRECTORY_BD)
 NEW_BD_PATH = Path().absolute() / 'BD-FGNET'
 
 rejected_subjects = ['S064']
-subject = ''
 subjects = []
 n_images = 8 # number of images per subject
 
 for file in files:
-    if(file[0:4] != subject and file[0:4] not in rejected_subjects and file != '.gitignore'):
+    if(file[0:4] not in subjects and file[0:4] not in rejected_subjects and file != '.gitignore'):
         subjects.append(file[0:4])
-        subject = file[0:4]
+
+
+print('Subjects selected: ', subjects.sort())
 
 # Randomly selecting the images after taking the extremes, and taking care to take the same amount in the first half of the photos as in the second
 # for select in selected:
