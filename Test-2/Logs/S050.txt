@@ -1,0 +1,12 @@
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S050_1937_2003_F_A.jpg e S050_1937_2004_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S050_1937_2007_F_A.jpg e S050_1937_2008_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S050_1937_2017_F_A.jpg e S050_1937_2018_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
