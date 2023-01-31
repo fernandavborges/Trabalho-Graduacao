@@ -23,7 +23,8 @@ for file in files:
         subjects.append(file[0:4])
 
 # randomly selects the desired amount among the available subjects
-print('Subjects available: ', subjects.sort())
+subjects.sort()
+print('Subjects available: ', subjects)
 random.seed()
 selected = random.sample(subjects, k=n_subjects)
 print('Subjects selected: ', selected)

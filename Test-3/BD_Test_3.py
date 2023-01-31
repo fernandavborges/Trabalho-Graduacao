@@ -20,7 +20,8 @@ for file in files:
         subjects.append(file[0:4])
 
 
-print('Subjects selected: ', subjects.sort())
+subjects.sort()
+print('Subjects selected: ', subjects)
 
 # Randomly selecting the images after taking the extremes, and taking care to take the same amount in the first half of the photos as in the second
 # for select in selected:
