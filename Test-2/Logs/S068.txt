@@ -1,0 +1,4 @@
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S068_1967_2020_M_A.jpg e S068_1967_2021_M_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

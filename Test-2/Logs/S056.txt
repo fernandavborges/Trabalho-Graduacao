@@ -1,0 +1,8 @@
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S056_1969_1993_F_A.jpg e S056_1969_1994_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S056_1969_2018_F_A.jpg e S056_1969_2019_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

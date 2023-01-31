@@ -1,0 +1,4 @@
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S002_1966_1970_F_A.jpg e S002_1966_1972_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

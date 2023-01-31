@@ -1,0 +1,28 @@
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S062_1958_1965_F_E.jpg e S062_1958_1972_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S062_1958_1977_F_E.jpg e S062_1958_1978_F_E.jpg
+Exception:can only convert an array of size 1 to a Python scalar
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S062_1958_1994_F_E.jpg e S062_1958_1995_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S062_1958_2013_F_E.jpg e S062_1958_2014_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S062_1958_2014_F_E.jpg e S062_1958_2015_F_E.jpg
+Exception:can only convert an array of size 1 to a Python scalar
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S062_1958_2014_F_E.jpg e S062_1958_2015_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S062_1958_2019_F_E.jpg e S062_1958_2020_F_E.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

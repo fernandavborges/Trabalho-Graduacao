@@ -1,0 +1,16 @@
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S025_1991_1997_F_A.JPG e S025_1991_2007_F_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S025_1991_2007_F_A.JPG e S025_1991_2008_F_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S025_1991_2016_F_A.jpg e S025_1991_2017_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S025_1991_2018_F_A.jpg e S025_1991_2019_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

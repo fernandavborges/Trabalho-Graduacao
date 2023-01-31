@@ -1,0 +1,8 @@
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S019_1943_1999_F_E.jpg e S019_1943_2000_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S019_1943_2010_F_E.jpg e S019_1943_2011_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

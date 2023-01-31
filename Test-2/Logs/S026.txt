@@ -1,0 +1,12 @@
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S026_1967_1994_F_E.jpg e S026_1967_1995_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S026_1967_1996_F_E.jpg e S026_1967_1997_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S026_1967_2000_F_E.jpg e S026_1967_2001_F_E.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
