@@ -1,48 +1,24 @@
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S030_1947_1980_F_E.jpg e S030_1947_1981_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S030_1947_1982_F_E.jpg e S030_1947_1983_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S030_1947_1983_F_E.jpg e S030_1947_1984_F_E.jpg
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S030_1947_1978_F_E.jpg e S030_1947_1979_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepFace.
 Imagem S030_1947_1985_F_E.jpg e S030_1947_1986_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S030_1947_1986_F_E.jpg e S030_1947_1987_F_E.jpg
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S030_1947_2000_F_E.jpg e S030_1947_2001_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: DeepID.
-Imagem S030_1947_1986_F_E.jpg e S030_1947_1987_F_E.jpg
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S030_1947_2004_F_E.jpg e S030_1947_2005_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: SFace.
-Imagem S030_1947_1989_F_E.jpg e S030_1947_1990_F_E.jpg
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S030_1947_2004_F_E.jpg e S030_1947_2005_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S030_1947_1993_F_E.jpg e S030_1947_1994_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: SFace.
-Imagem S030_1947_1996_F_E.jpg e S030_1947_1997_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: OpenFace.
-Imagem S030_1947_2001_F_E.jpg e S030_1947_2002_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: SFace.
-Imagem S030_1947_2012_F_E.jpg e S030_1947_2013_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S030_1947_2015_F_E.jpg e S030_1947_2016_F_E.jpg
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S030_1947_2013_F_E.jpg e S030_1947_2014_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

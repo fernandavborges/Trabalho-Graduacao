@@ -1,24 +1,4 @@
-Detector: mtcnn. Recognizer: OpenFace.
-Imagem S036_1989_2003_M_A.JPG e S036_1989_2004_M_A.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S036_1989_2010_M_A.jpg e S036_1989_2011_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
 Detector: mtcnn. Recognizer: DeepID.
-Imagem S036_1989_2010_M_A.jpg e S036_1989_2011_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: ArcFace.
 Imagem S036_1989_2011_M_A.jpg e S036_1989_2012_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem S036_1989_2013_M_A.jpg e S036_1989_2014_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S036_1989_2017_M_A.jpg e S036_1989_2018_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

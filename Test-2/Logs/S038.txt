@@ -1,0 +1,16 @@
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem S038_1984_2000_F_E.jpg e S038_1984_2001_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S038_1984_2009_F_E.jpg e S038_1984_2010_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S038_1984_2010_F_E.jpg e S038_1984_2011_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S038_1984_2017_F_E.jpg e S038_1984_2018_F_E.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

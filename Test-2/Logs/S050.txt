@@ -1,12 +1,83 @@
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S050_1937_2003_F_A.jpg e S050_1937_2004_F_A.jpg
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem S050_1937_1954_F_A.JPG e S050_1937_1955_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem S050_1937_2007_F_A.jpg e S050_1937_2008_F_A.jpg
+Detector: mtcnn. Recognizer: SFace.
+Imagem S050_1937_1955_F_A.jpg e S050_1937_1957_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet.
-Imagem S050_1937_2017_F_A.jpg e S050_1937_2018_F_A.jpg
+Imagem S050_1937_1957_F_A.jpg e S050_1937_1959_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S050_1937_1960_F_A.jpg e S050_1937_1961_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S050_1937_1963_F_A.jpg e S050_1937_1964_F_A.jpg
+Exception:Graph execution error:
+
+Detected at node 'model_3/flatten_2/Reshape' defined at (most recent call last):
+    File "/usr/lib/python3.8/threading.py", line 890, in _bootstrap
+      self._bootstrap_inner()
+    File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+      self.run()
+    File "/usr/lib/python3.8/threading.py", line 870, in run
+      self._target(*self._args, **self._kwargs)
+    File "Thread_Test_2-CPU-2.py", line 76, in recognition_thread
+      result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/deepface/DeepFace.py", line 163, in verify
+      img1_representation = represent(img_path = img1_path
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/deepface/DeepFace.py", line 768, in represent
+      embedding = model.predict(img)[0].tolist()
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2350, in predict
+      tmp_batch_outputs = self.predict_function(iterator)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2137, in predict_function
+      return step_function(self, iterator)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2123, in step_function
+      outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2111, in run_step
+      outputs = model.predict_step(data)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 2079, in predict_step
+      return self(x, training=False)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/training.py", line 561, in __call__
+      return super().__call__(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/base_layer.py", line 1132, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/functional.py", line 511, in call
+      return self._run_internal_graph(inputs, training=training, mask=mask)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/functional.py", line 668, in _run_internal_graph
+      outputs = node.layer(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/engine/base_layer.py", line 1132, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "/home/fvbcarneiro/.local/lib/python3.8/site-packages/keras/layers/reshaping/flatten.py", line 104, in call
+      return tf.reshape(inputs, flattened_shape)
+Node: 'model_3/flatten_2/Reshape'
+Input to reshape is a tensor with 17340 values, but the requested shape requires a multiple of 1200
+	 [[{{node model_3/flatten_2/Reshape}}]] [Op:__inference_predict_function_373366]
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S050_1937_1979_F_A.jpg e S050_1937_1980_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S050_1937_1985_F_A.jpg e S050_1937_1986_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem S050_1937_1991_F_A.jpg e S050_1937_1992_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
