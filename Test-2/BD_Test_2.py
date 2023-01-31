@@ -15,14 +15,12 @@ NEW_BD_PATH = Path().absolute() / 'BD'
 # Subjects who did not admit the plastic and not even a specialist attested about
 rejected_subjects = ['S077', 'S082']
 
-subject = ''
 subjects = []
 n_subjects = 81 # final number of individuals to be selected
 
 for file in files:
-    if(file[0:4] != subject and file[0:4] not in rejected_subjects and file != '.gitignore'):
+    if(file[0:4] not in subjects and file[0:4] not in rejected_subjects and file != '.gitignore'):
         subjects.append(file[0:4])
-        subject = file[0:4]
 
 # randomly selects the desired amount among the available subjects
 print('Subjects available: ', subjects)
