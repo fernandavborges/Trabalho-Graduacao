@@ -92,7 +92,7 @@ if __name__ == "__main__":
     files.sort()
     subjects = []
     thread_subjects = []
-    n_threads = 5
+    n_threads = 4
     csv = os.listdir(results_folder)
     for c in csv:  
         subjects.append(c[0:4])
