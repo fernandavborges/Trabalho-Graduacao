@@ -1,20 +1,36 @@
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S014_1958_1969_M_A.jpg e S014_1958_1970_M_A.JPG
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S014_1958_1978_M_A.jpg e S014_1958_1979_M_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S014_1958_1990_M_A.JPG e S014_1958_1991_M_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S014_1958_1992_M_A.jpg e S014_1958_1993_M_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S014_1958_1993_M_A.JPG e S014_1958_1994_M_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S014_1958_1996_M_A.jpg e S014_1958_1997_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: OpenFace.
-Imagem S014_1958_1969_M_A.jpg e S014_1958_1970_M_A.JPG
+Imagem S014_1958_1996_M_A.jpg e S014_1958_1997_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: DeepID.
-Imagem S014_1958_1977_M_A.jpg e S014_1958_1978_M_A.jpg
+Detector: mtcnn. Recognizer: SFace.
+Imagem S014_1958_1997_M_A.jpg e S014_1958_1998_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S014_1958_1985_M_A.jpg e S014_1958_1986_M_A.jpg
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S014_1958_2002_M_A.jpg e S014_1958_2003_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: DeepID.
-Imagem S014_1958_2005_M_A.jpg e S014_1958_2006_M_A.jpg
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S014_1958_2002_M_A.jpg e S014_1958_2003_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

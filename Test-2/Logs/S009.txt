@@ -1,20 +1,16 @@
 Detector: mtcnn. Recognizer: ArcFace.
-Imagem S009_1964_1986_F_A.jpg e S009_1964_1987_F_A.jpg
+Imagem S009_1964_1990_F_A.jpg e S009_1964_1991_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: Facenet512.
-Imagem S009_1964_1997_F_A.jpg e S009_1964_1998_F_A.jpg
-Exception:can only convert an array of size 1 to a Python scalar
-
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S009_1964_1998_F_A.jpg e S009_1964_1999_F_A.jpg
+Imagem S009_1964_2001_F_A.jpg e S009_1964_2002_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem S009_1964_2018_F_A.jpg e S009_1964_2019_F_A.jpg
+Detector: mtcnn. Recognizer: SFace.
+Imagem S009_1964_2002_F_A.jpg e S009_1964_2003_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S009_1964_2019_F_A.jpg e S009_1964_2021_F_A.jpg
+Detector: mtcnn. Recognizer: SFace.
+Imagem S009_1964_2008_F_A.jpg e S009_1964_2009_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

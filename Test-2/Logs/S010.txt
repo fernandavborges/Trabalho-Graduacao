@@ -1,20 +1,12 @@
 Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S010_1946_1962_F_A.jpg e S010_1946_1965_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S010_1946_2002_F_A.jpg e S010_1946_2003_F_A.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: DeepID.
-Imagem S010_1946_2007_F_A.jpg e S010_1946_2008_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S010_1946_2008_F_A.jpg e S010_1946_2009_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+Imagem S010_1946_1984_F_A.jpg e S010_1946_1985_F_A.jpg
+Exception:can only convert an array of size 1 to a Python scalar
 
 Detector: mtcnn. Recognizer: ArcFace.
-Imagem S010_1946_2020_F_A.jpg e S010_1946_2021_F_A.jpg
+Imagem S010_1946_2015_F_A.jpg e S010_1946_2016_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem S010_1946_2016_F_A.jpg e S010_1946_2017_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

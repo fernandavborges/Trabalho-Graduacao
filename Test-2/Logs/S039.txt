@@ -1,32 +1,12 @@
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S039_1970_1997_F_A.jpg e S039_1970_1998_F_A.jpg
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S039_1970_2006_F_A.jpg e S039_1970_2007_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem S039_1970_1999_F_A.jpg e S039_1970_2000_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: SFace.
-Imagem S039_1970_1999_F_A.jpg e S039_1970_2000_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S039_1970_2000_F_A.jpg e S039_1970_2001_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem S039_1970_2004_F_A.jpg e S039_1970_2005_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S039_1970_2005_F_A.jpg e S039_1970_2006_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: OpenFace.
+Detector: mtcnn. Recognizer: Dlib.
 Imagem S039_1970_2006_F_A.jpg e S039_1970_2007_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: DeepFace.
-Imagem S039_1970_2010_F_A.jpg e S039_1970_2012_F_A.jpg
+Imagem S039_1970_2007_F_A.jpg e S039_1970_2008_F_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

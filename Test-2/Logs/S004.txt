@@ -1,0 +1,20 @@
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S004_1986_1990_F_A.jpg e S004_1986_1995_F_A.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Dlib.
+Imagem S004_1986_2004_F_A.jpg e S004_1986_2005_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem S004_1986_2013_F_A.jpg e S004_1986_2014_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S004_1986_2014_F_A.jpg e S004_1986_2015_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem S004_1986_2018_F_A.jpg e S004_1986_2019_F_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

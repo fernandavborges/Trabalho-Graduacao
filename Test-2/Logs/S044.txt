@@ -1,8 +1,4 @@
 Detector: mtcnn. Recognizer: DeepID.
-Imagem S044_1969_1982_F_E.JPG e S044_1969_1987_F_E.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem S044_1969_2002_F_E.jpg e S044_1969_2003_F_E.jpg
+Imagem S044_1969_2019_F_E.jpg e S044_1969_2020_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

@@ -1,9 +1,5 @@
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem S040_1961_1986_F_E.jpg e S040_1961_1987_F_E.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S040_1961_1989_F_E.jpg e S040_1961_1990_F_E.jpg
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S040_1961_1981_F_E.jpg e S040_1961_1982_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
 Detector: mtcnn. Recognizer: VGG-Face.
@@ -78,7 +74,7 @@ Detector: mtcnn. Recognizer: SFace.
 Imagem S040_1961_1992_F_E.jpg e S040_1961_1993_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem S040_1961_1999_F_E.jpg e S040_1961_2000_F_E.jpg
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S040_1961_2000_F_E.jpg e S040_1961_2001_F_E.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

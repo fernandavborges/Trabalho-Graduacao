@@ -1,4 +1,12 @@
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem S018_1992_1997_M_A.jpg e S018_1992_1999_M_A.JPG
+Detector: mtcnn. Recognizer: Facenet.
+Imagem S018_1992_2006_M_A.jpg e S018_1992_2007_M_A.jpg
+Exception:can only convert an array of size 1 to a Python scalar
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S018_1992_2007_M_A.jpg e S018_1992_2008_M_A.jpg
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: VGG-Face.
+Imagem S018_1992_2010_M_A.jpg e S018_1992_2011_M_A.jpg
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
