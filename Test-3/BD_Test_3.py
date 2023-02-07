@@ -11,7 +11,7 @@ files = os.listdir(PATH_DIRECTORY_BD)
 
 NEW_BD_PATH = Path().absolute() / 'BD-FGNET'
 
-rejected_subjects = ['S064']
+rejected_subjects = ['064']
 subjects = []
 n_images = 8 # number of images per subject
 
