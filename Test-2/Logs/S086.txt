@@ -1,8 +1,0 @@
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S086_1986_2010_M_A.jpg e S086_1986_2011_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet.
-Imagem S086_1986_2019_M_A.jpg e S086_1986_2020_M_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-

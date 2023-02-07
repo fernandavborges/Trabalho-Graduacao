@@ -1,8 +1,0 @@
-Detector: mtcnn. Recognizer: Dlib.
-Imagem S078_1987_1999_F_A.PNG e S078_1987_2000_F_A.PNG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: DeepID.
-Imagem S078_1987_2015_F_A.jpg e S078_1987_2016_F_A.jpg
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
