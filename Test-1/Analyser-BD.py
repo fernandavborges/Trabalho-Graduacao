@@ -15,12 +15,12 @@ models_recognition = [
 ]
 
 
-PATH_DIRECTORY_READ = Path().absolute() / 'Results/CSVs/'
+PATH_DIRECTORY_READ = Path().absolute() / 'Results/CSV-1/'
 COLUMNS_READ = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 files_read = PATH_DIRECTORY_READ.glob('*.csv')
 
 PATH_DIRECTORY_WRITE = Path().absolute() / 'Results/Analyser/'
-COLUMNS_WRITE = ['Subject', 'Ages', 'Ages GAP', 'Age Before GAP', 'Age After GAP', 'Recognized', 'Total Comparisons', 'Average (3)', 'Average (4)', 'Average (5)']
+COLUMNS_WRITE = ['Subject', 'Ages', 'Ages GAP', 'Age Before GAP', 'Age After GAP', 'Recognized', 'Total Comparisons', 'Average (3)', 'Difference Average (3)', 'Average (4)', 'Difference Average (4)', 'Average (5)', 'Difference Average (5)']
 files_write = PATH_DIRECTORY_WRITE.glob('Analyser_*.csv')
 
 path_files = []
@@ -35,6 +35,7 @@ for recognizer in models_recognition:
         first_age = True
         results_recognizer = []
         ages, ages_gap= [], []
+        dif_3, dif_4, dif_5 = [], [], []
         age_before, age_after = 0, 0
         average_3, average_4, average_5 = [], [], []
 
@@ -57,10 +58,16 @@ for recognizer in models_recognition:
 
         for i in range(len(results_recognizer)-2):
             average_3.append(sum(results_recognizer[i:i+3])/len(results_recognizer[i:i+3]))
+            if(i > 0):
+                dif_3.append(average_3[i]-average_3[i-1])
         for i in range(len(results_recognizer)-3):
             average_4.append(sum(results_recognizer[i:i+4])/len(results_recognizer[i:i+4]))
+            if(i > 0):
+                dif_4.append(average_4[i]-average_4[i-1])
         for i in range(len(results_recognizer)-4):
             average_5.append(sum(results_recognizer[i:i+5])/len(results_recognizer[i:i+5]))
+            if(i > 0):
+                dif_5.append(average_5[i]-average_5[i-1])
 
         for i in range(1, len(ages)):
             if len(ages_gap) != 0:
@@ -69,7 +76,7 @@ for recognizer in models_recognition:
                     age_after = ages[i]
             ages_gap.append(ages[i]-ages[i-1])
         
-        results.loc[k] = [subject, ages, ages_gap, age_before, age_after, recognized, len(results_recognizer), average_3, average_4, average_5]
+        results.loc[k] = [subject, ages, ages_gap, age_before, age_after, recognized, len(results_recognizer), average_3, dif_3, average_4, dif_4, average_5, dif_5]
         k = k + 1
     name_csv = 'Analyser_' + recognizer +'.csv'
     path_csv = PATH_DIRECTORY_WRITE / name_csv
