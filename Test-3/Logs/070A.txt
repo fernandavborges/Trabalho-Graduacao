@@ -1,0 +1,35 @@
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A00.JPG e 070A01.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A01.JPG e 070A02.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A02.JPG e 070A03.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A03.JPG e 070A08.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A08.JPG e 070A09.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A09.JPG e 070A12.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 070A12.JPG e 070A14.JPG
+Exception:OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\fast_convolution\winograd_3x3s1_f63.cpp:147: error: (-215:Assertion failed) _FX_WINO_IBLOCK == 3 && _FX_WINO_KBLOCK == 4 in function 'cv::dnn::_fx_winograd_accum_f32'
+
+
