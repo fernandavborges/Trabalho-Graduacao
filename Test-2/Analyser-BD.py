@@ -74,6 +74,9 @@ for recognizer in models_recognition:
                 if(ages[i]-ages[i-1] > max(ages_gap)):
                     age_before = ages[i-1]
                     age_after = ages[i]
+            else:
+                age_before = ages[i-1]
+                age_after = ages[i]
             ages_gap.append(ages[i]-ages[i-1])
         
         results.loc[k] = [subject, ages, ages_gap, age_before, age_after, recognized, len(results_recognizer), average_3, dif_3, average_4, dif_4, average_5, dif_5]

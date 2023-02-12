@@ -15,7 +15,7 @@ models_recognition = [
 ]
 
 
-PATH_DIRECTORY_READ = Path().absolute() / 'Results/CSV-1/'
+PATH_DIRECTORY_READ = Path().absolute() / 'Results/CSVs/'
 COLUMNS_READ = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 files_read = PATH_DIRECTORY_READ.glob('*.csv')
 
@@ -41,7 +41,7 @@ for recognizer in models_recognition:
 
         csv_file = pandas.read_csv(file)
         born_year = int(csv_file[COLUMNS_READ[0]][0][10:14])
-        subject = csv_file[COLUMNS_READ[0]][0][5:9]
+        subject = csv_file[COLUMNS_READ[0]][0][0:4]
 
         for i in range(len(csv_file)):
             age = csv_file[COLUMNS_READ[1]][i] - born_year
@@ -71,9 +71,12 @@ for recognizer in models_recognition:
 
         for i in range(1, len(ages)):
             if len(ages_gap) != 0:
-                if(ages[i]-ages[i-1] > max(ages_gap)):
+                if(ages[i]-ages[i-1] >= max(ages_gap)):
                     age_before = ages[i-1]
                     age_after = ages[i]
+            else:
+                age_before = ages[i-1]
+                age_after = ages[i]
             ages_gap.append(ages[i]-ages[i-1])
         
         results.loc[k] = [subject, ages, ages_gap, age_before, age_after, recognized, len(results_recognizer), average_3, dif_3, average_4, dif_4, average_5, dif_5]
