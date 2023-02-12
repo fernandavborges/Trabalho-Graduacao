@@ -1,0 +1,8 @@
+,Image 1,Year 1,Image 2,Year 2,Distance Metric,Detection Model,Recognition Model,Distance Result,Recognition Result
+0,S059_1985_1992_F_A.jpg,1992,S059_1985_1995_F_A.jpg,1995,cosine,mtcnn,SFace,0.5515987754531091,True
+1,S059_1985_1995_F_A.jpg,1995,S059_1985_1998_F_A.jpg,1998,cosine,mtcnn,SFace,0.7386638720934694,False
+2,S059_1985_1998_F_A.jpg,1998,S059_1985_2000_F_A.jpg,2000,cosine,mtcnn,SFace,0.5925529538059191,True
+3,S059_1985_2000_F_A.jpg,2000,S059_1985_2019_F_A.jpg,2019,cosine,mtcnn,SFace,0.6285855773036642,False
+4,S059_1985_2019_F_A.jpg,2019,S059_1985_2020_F_A.jpg,2020,cosine,mtcnn,SFace,0.5889467141141796,True
+5,S059_1985_2020_F_A.jpg,2020,S059_1985_2021_F_A.jpg,2021,cosine,mtcnn,SFace,0.5683246812266589,True
+6,S059_1985_2021_F_A.jpg,2021,S059_1985_2022_F_A.jpg,2022,cosine,mtcnn,SFace,0.37596933624913365,True
