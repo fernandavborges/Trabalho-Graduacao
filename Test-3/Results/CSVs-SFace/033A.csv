@@ -1,0 +1,8 @@
+,Image 1,Age 1,Image 2,Age 2,Distance Metric,Detection Model,Recognition Model,Distance Result,Recognition Result,Year 1,Year 2
+0,033A02.JPG,,033A05.JPG,,cosine,mtcnn,SFace,0.6845925059236443,False,,
+1,033A05.JPG,,033A10.JPG,,cosine,mtcnn,SFace,0.6673287747181975,False,,
+2,033A10.JPG,,033A14.JPG,,cosine,mtcnn,SFace,0.4337888886681608,True,,
+3,033A14.JPG,,033A30.JPG,,cosine,mtcnn,SFace,0.8170558551396869,False,,
+4,033A30.JPG,,033A35.JPG,,cosine,mtcnn,SFace,0.5065784094253256,True,,
+5,033A35.JPG,,033A39.JPG,,cosine,mtcnn,SFace,0.5319079978305372,True,,
+6,033A39.JPG,,033A44.JPG,,cosine,mtcnn,SFace,0.31195320174293006,True,,
