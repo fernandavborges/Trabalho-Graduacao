@@ -1,10 +1,11 @@
-*.JPG
-*.jpg
-*.JPEG
-*.jpeg
-*.PNG
-*.png
 *.pyc
 *.txt
+Banco-de-Imagens/
+FGNET/
+HDA-PlasticSurgery/
+Test-1/BD/
+Test-2/BD/
+Test-3/BD-FGNET/
+
 
 
