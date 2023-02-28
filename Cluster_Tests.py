@@ -9,30 +9,46 @@ COLUMNS = ['Subject', 'Ages', 'Ages GAP', 'Age Before GAP', 'Age After GAP', 'Re
 
 if __name__ == "__main__":
 
-    option_test = input('Em qual teste será realizado a análise? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n')
-    option_folder = input('Qual a pasta de resultados será analisada? (Colocar o nome da pasta com os resultados que deseja gerar o analyser): ')
-    
+    option_test = input('Em qual teste será realizado a análise? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
+
     if(option_test == '1'):
+        path_tests = Path().absolute() / 'Test-1/Results/'
+        print('Pasta de resultados (analyser) disponíveis no Test-1:')
+        for path in path_tests.iterdir():
+            if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (ex: Test1A): ')
         name_folder_read = 'Test-1/Results/Analyser-' + option_folder
-        PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-1/Results/Clusters-' + option_folder
-        PATH_DIRECTORY_WRITE = Path().absolute() / name_folder_write
 
     elif(option_test == '2'):
+        path_tests = Path().absolute() / 'Test-2/Results/'
+        print('Pasta de resultados (analyser) disponíveis no Test-2:')
+        for path in path_tests.iterdir():
+            if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (ex: Test1A): ')
         name_folder_read = 'Test-2/Results/Analyser-' + option_folder
-        PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-2/Results/Clusters-' + option_folder
-        PATH_DIRECTORY_WRITE = Path().absolute() / name_folder_write
 
     elif(option_test == '3'):
+        path_tests = Path().absolute() / 'Test-3/Results/'
+        print('Pasta de resultados (analyser) disponíveis no Test-3:')
+        for path in path_tests.iterdir():
+            if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (ex: Test1A): ')
         name_folder_read = 'Test-3/Results/Analyser-' + option_folder
-        PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-3/Results/Clusters-' + option_folder
-        PATH_DIRECTORY_WRITE = Path().absolute() / name_folder_write
     else:
         print('Opçao inválida.')
         exit()
     
+    PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
+    PATH_DIRECTORY_WRITE = Path().absolute() / name_folder_write
     if(PATH_DIRECTORY_READ.exists()):
         files_read = PATH_DIRECTORY_READ.glob('Analyser_*.csv')
     else:

@@ -8,7 +8,7 @@ import random
 import shutil
 
 if __name__ == "__main__":
-    option_test = input('Para qual teste será criado o Banco de Imagens? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n')
+    option_test = input('Para qual teste será criado o Banco de Imagens? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
     
     if(option_test == '1'):
         PATH_DIRECTORY_BD = Path().absolute() / 'Banco-de-Imagens'
@@ -30,7 +30,7 @@ if __name__ == "__main__":
         shutil.rmtree(NEW_BD_PATH)
     os.mkdir(NEW_BD_PATH)
 
-    option_dataset = input('\nComo criar o banco de imagens? \n 1. Pelas extremidades (Professor) \n 2. Aleatoriamente (Liz) \n')
+    option_dataset = input('\nComo criar o banco de imagens? \n 1. Pelas extremidades (Professor) \n 2. Aleatoriamente (Liz) \n>>')
     if(option_dataset == '1'):
         if(option_test == '1' or option_test == '3'):
             print('\nCriando o dataset com todos os sujeitos, sendo necessário sortear depois quais serão usados para resultado.')

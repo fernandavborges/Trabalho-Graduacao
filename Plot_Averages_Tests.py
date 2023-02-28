@@ -21,18 +21,38 @@ COLUMNS = ['Subject', 'Ages', 'Ages GAP', 'Age Before GAP', 'Age After GAP', 'Re
 
 if __name__ == "__main__":
 
-    option_test = input('Em qual teste será realizado o plot de médias? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n')
-    option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
-   
+    option_test = input('Em qual teste será realizado o plot de médias? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
+
     if(option_test == '1'):
+        path_tests = Path().absolute() / 'Test-1/Results/'
+        print('Pasta de resultados disoníveis no Test-1:')
+        for path in path_tests.iterdir():
+            if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
         name_folder_read = 'Test-1/Results/Analyser-' + option_folder
         PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-1/Results/Images-' + option_folder
     elif(option_test == '2'):
+        path_tests = Path().absolute() / 'Test-2/Results/'
+        print('Pasta de resultados disoníveis no Test-2:')
+        for path in path_tests.iterdir():
+             if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
         name_folder_read = 'Test-2/Results/Analyser-' + option_folder
         PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-2/Results/Images-' + option_folder
     elif(option_test == '3'):
+        path_tests = Path().absolute() / 'Test-3/Results/'
+        print('Pasta de resultados disoníveis no Test-3:')
+        for path in path_tests.iterdir():
+             if path.is_dir() and (str(path).find('Results\Analyser')!=-1):
+                path_str = str(path)
+                print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
+        option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
         name_folder_read = 'Test-3/Results/Analyser-' + option_folder
         PATH_DIRECTORY_READ = Path().absolute() / name_folder_read
         name_folder_write = 'Test-3/Results/Images-' + option_folder
@@ -68,7 +88,7 @@ if __name__ == "__main__":
         file_name = str(file)
         name_model = file_name[file_name.index('Analyser_')+len('Analyser_'):file_name.index('.csv')]
         for i in range(len(csv_file)):
-            subject = csv_file[COLUMNS[0]][i]
+            subject = str(csv_file['Subject'][i])
             average_m3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(",")]
             average_m4 = [float(item) for item in csv_file[COLUMNS[8]][i][csv_file[COLUMNS[8]][i].index('[') + 1:csv_file[COLUMNS[8]][i].index(']')].strip().split(",")]
             average_m5 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(",")]

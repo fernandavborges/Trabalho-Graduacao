@@ -85,7 +85,7 @@ def recognition_thread(subjects, files, bd_folder, results_folder, file_logs_pat
     file_logs.close()
 
 if __name__ == "__main__":
-    option_test = input('Qual teste será rodado? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n')
+    option_test = input('Qual teste será rodado? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
     
     if(option_test == '1'):
         PATH_DIRECTORY = Path().absolute() / 'Test-1'
@@ -106,7 +106,7 @@ if __name__ == "__main__":
         print('Opção inválida.')
         exit()
 
-    option_mode = input('\nQual o modo de teste?\n 1. Normal \n 2. Aleatório \n')
+    option_mode = input('\nQual o modo de teste?\n 1. Normal \n 2. Aleatório \n>>')
 
     if(option_mode == '1'): 
         results_folder = PATH_DIRECTORY / 'Results/Test1A/'
