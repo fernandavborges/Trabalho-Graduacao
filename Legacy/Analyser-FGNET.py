@@ -2,6 +2,8 @@ from pathlib import Path
 import pandas
 import numpy as np
 
+
+
 models_recognition = [
   "VGG-Face", 
   "Facenet", 
@@ -14,9 +16,8 @@ models_recognition = [
   "SFace"
 ]
 
-
 PATH_DIRECTORY_READ = Path().absolute() / 'Results/CSVs/'
-COLUMNS_READ = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
+COLUMNS_READ = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 files_read = PATH_DIRECTORY_READ.glob('*.csv')
 
 PATH_DIRECTORY_WRITE = Path().absolute() / 'Results/Analyser/'
@@ -34,22 +35,19 @@ for recognizer in models_recognition:
         recognized = 0
         first_age = True
         results_recognizer = []
-        ages, ages_gap= [], []
+        ages, ages_gap = [], []
         dif_3, dif_4, dif_5 = [], [], []
         age_before, age_after = 0, 0
         average_3, average_4, average_5 = [], [], []
 
         csv_file = pandas.read_csv(file)
-        born_year = int(csv_file[COLUMNS_READ[0]][0][10:14])
-        subject = csv_file[COLUMNS_READ[0]][0][5:9]
+        subject = csv_file[COLUMNS_READ[0]][0][0:3]
 
         for i in range(len(csv_file)):
-            age = csv_file[COLUMNS_READ[1]][i] - born_year
-            if age not in ages:
-                ages.append(age)
-            age = csv_file[COLUMNS_READ[3]][i] - born_year
-            if age not in ages:
-                ages.append(age)
+            if csv_file[COLUMNS_READ[1]][i] not in ages:
+                ages.append(csv_file[COLUMNS_READ[1]][i])
+            if csv_file[COLUMNS_READ[3]][i] not in ages:
+                ages.append(csv_file[COLUMNS_READ[3]][i])
 
             if csv_file[COLUMNS_READ[6]][i] == recognizer:
                 results_recognizer.append(csv_file[COLUMNS_READ[7]][i])
@@ -71,7 +69,7 @@ for recognizer in models_recognition:
 
         for i in range(1, len(ages)):
             if len(ages_gap) != 0:
-                if(ages[i]-ages[i-1] > max(ages_gap)):
+                if(ages[i]-ages[i-1] >= max(ages_gap)):
                     age_before = ages[i-1]
                     age_after = ages[i]
             else:
@@ -84,7 +82,6 @@ for recognizer in models_recognition:
     name_csv = 'Analyser_' + recognizer +'.csv'
     path_csv = PATH_DIRECTORY_WRITE / name_csv
     results.to_csv(path_csv)
-
 
 # Another CSV, but with informations more general
 

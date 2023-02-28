@@ -9,7 +9,8 @@ from pandas import DataFrame
 import threading
 
 # Chosing the database
-PATH_DIRECTORY = Path().absolute() / 'BD'
+#PATH_DIRECTORY = Path().absolute() / 'BD'
+PATH_DIRECTORY = Path().absolute().parents[0] / 'Banco-de-Imagens'
 
 COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
@@ -70,8 +71,8 @@ def recognition_thread(subjects, FILES):
             for recognizer in models_recognition:
                 print('Detector: ' + models_detection[3] + '\n' + 'Recognizer: ' + recognizer + '\n')
                 if previous_image != '':
-                    img1_path = str(Path().absolute() / 'BD' / previous_image)
-                    img2_path = str(Path().absolute() / 'BD' / file)
+                    img1_path = str(PATH_DIRECTORY / previous_image)
+                    img2_path = str(PATH_DIRECTORY / file)
                     try:
                         result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
                         results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)

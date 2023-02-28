@@ -9,9 +9,9 @@ from pandas import DataFrame
 import threading
 
 # Chosing the database
-PATH_DIRECTORY = Path().absolute() / 'BD-FGNET'
+PATH_DIRECTORY = Path().absolute() / 'BD'
 
-COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
+COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
 distance_metrics = [
   "cosine", 
@@ -40,10 +40,9 @@ models_detection = [
   "mediapipe"
 ]
 
-results_folder = Path().absolute() / 'Results/CSVs/'
 file_logs_path = Path().absolute() / 'Logs/'
 
-def recognition_thread(subjects, files):
+def recognition_thread(subjects, files, results_folder):
     first_subject = True
     previous_image = ''
     subject = ''
@@ -70,11 +69,11 @@ def recognition_thread(subjects, files):
             for recognizer in models_recognition:
                 print('Detector: ' + models_detection[3] + '\n' + 'Recognizer: ' + recognizer + '\n')
                 if previous_image != '':
-                    img1_path = str(Path().absolute() / 'BD-FGNET' / previous_image)
-                    img2_path = str(Path().absolute() / 'BD-FGNET' / file)
+                    img1_path = str(Path().absolute() / 'BD' / previous_image)
+                    img2_path = str(Path().absolute() / 'BD' / file)
                     try:
                         result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = models_detection[3])
-                        results = results.append({'Image 1':previous_image, 'Age 1':previous_image[4:6], 'Image 2':file, 'Age 2':file[4:6], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
+                        results = results.append({'Image 1':previous_image, 'Year 1':previous_image[10:14], 'Image 2':file, 'Year 2':file[10:14], 'Distance Metric':distance_metrics[0], 'Detection Model':models_detection[3], 'Recognition Model':recognizer, 'Distance Result':result.get('distance'), 'Recognition Result':result.get('verified')}, ignore_index=True)
                     except Exception as exception:
                         print('Exception:' + str(exception))
                         file_logs.write('Detector: ' + models_detection[3]  + '. Recognizer: ' + recognizer + '.\n') 
@@ -88,6 +87,19 @@ def recognition_thread(subjects, files):
     file_logs.close()
 
 if __name__ == "__main__":
+
+    option = input('What is the test mode? \n 1. Normal \n 2. Random \n')
+
+    if(option == '1'): 
+        results_folder = Path().absolute() / 'Results/CSVs/'
+    elif(option == '2'):
+        number_test = input('Number of the test to be performed (the number will be added to the folder name): ')
+        name = 'Results/CSV-' + number_test + '/'
+        results_folder = Path().absolute() / name
+    else:
+        print('Invalid chosen option.')
+        exit()
+
     files = os.listdir(PATH_DIRECTORY)
     files.sort()
     subjects = []
@@ -100,7 +112,7 @@ if __name__ == "__main__":
             subjects.append(c[0:4])
     else:
         os.mkdir(results_folder)
-    
+
     for file in files:
         if(file[0:4] not in thread_subjects and file[0:4] not in subjects):
             thread_subjects.append(file[0:4])
@@ -109,9 +121,9 @@ if __name__ == "__main__":
 
     for i in range(n_threads):
         if(i == n_threads - 1):
-            threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:], files,)).start() 
+            threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:], files, results_folder,)).start() 
             print('Thread created! - Subjects:', thread_subjects[i*n_subjects:])
         else:
-            threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:(i+1)*n_subjects], files,)).start()
+            threading.Thread(target=recognition_thread, args=(thread_subjects[i*n_subjects:(i+1)*n_subjects], files, results_folder,)).start()
             print('Thread created! - Subjects:', thread_subjects[i*n_subjects:(i+1)*n_subjects])
         
