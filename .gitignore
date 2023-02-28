@@ -1,5 +1,10 @@
 *.JPG
+*.jpg
 *.JPEG
+*.jpeg
 *.PNG
+*.png
+*.pyc
+*.txt
 
 
