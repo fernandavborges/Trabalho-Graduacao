@@ -53,23 +53,37 @@ if __name__ == "__main__":
         print('Pasta de resultado clusters não existe.')
         exit()
 
+    option = input('\nComo plotar os gráficos?\n 1. Evidenciando a média\n 2. Evidenciando os sujeitos \n>>')
+    if(option != '1' and option != '2'):
+        print('Opção inválida.')
+        exit()
     for file in files_read:
         name_file = str(file)
+        average_3, average_4, average_5 = [], [], []
         csv_file = pandas.read_csv(file)
         if(len(csv_file) != 0):
             figure, axs = plt.subplots(3, 1, sharex=False, sharey=False)
-            if(len(csv_file) < 10): 
-                figure.set_figwidth(10)
-                figure.set_figheight(25)
-            elif(len(csv_file) < 20): 
-                figure.set_figwidth(25)
-                figure.set_figheight(30)
+            plt.rcParams.update({'font.size': 15})
+            plt.rcParams['xtick.labelsize'] = 15
+            plt.rcParams['ytick.labelsize'] = 15
+            if(option == '2'):
+                if(len(csv_file) <= 10): 
+                    figure.set_figwidth(15)
+                    figure.set_figheight(25)
+                elif(len(csv_file) < 20): 
+                    figure.set_figwidth(25)
+                    figure.set_figheight(30)
+                else:
+                    figure.set_figwidth(35)
+                    figure.set_figheight(40)
             else:
-                figure.set_figwidth(35)
-                figure.set_figheight(40)
+                figure.set_figwidth(15)
+                figure.set_figheight(25)
             axs[0].set_title(name_file[name_file.index('Cluster_'):-4] + ' - Average 3')
             axs[1].set_title(name_file[name_file.index('Cluster_'):-4] + ' - Average 4')
             axs[2].set_title(name_file[name_file.index('Cluster_'):-4] + ' - Average 5')
+            axs[0].set_xlabel('Média nº')
+            axs[1].set_xlabel('Média nº')
             axs[2].set_xlabel('Média nº')
             axs[0].set_ylabel("Distâncias")
             axs[1].set_ylabel("Distâncias")
@@ -77,19 +91,39 @@ if __name__ == "__main__":
 
             for i in range(len(csv_file)):
                 subject = csv_file[COLUMNS[0]][i]
-                average_3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(", ")]
-                average_4 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(", ")]
-                average_5 = [float(item) for item in csv_file[COLUMNS[11]][i][csv_file[COLUMNS[11]][i].index('[') + 1:csv_file[COLUMNS[11]][i].index(']')].strip().split(", ")]
+                plot_3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(", ")]
+                plot_4 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(", ")]
+                plot_5 = [float(item) for item in csv_file[COLUMNS[11]][i][csv_file[COLUMNS[11]][i].index('[') + 1:csv_file[COLUMNS[11]][i].index(']')].strip().split(", ")]
 
-                axs[0].plot(range(len(average_3)), average_3, label=subject)
-                axs[1].plot(range(len(average_4)), average_4, label=subject)
-                axs[2].plot(range(len(average_5)), average_5, label=subject)
+                if(option == '1'):
+                    axs[0].plot(range(len(plot_3)), plot_3, color='grey', linewidth=1.0)
+                    axs[1].plot(range(len(plot_4)), plot_4, color='grey', linewidth=1.0)
+                    axs[2].plot(range(len(plot_5)), plot_5, color='grey', linewidth=1.0)
+                else:
+                    axs[0].plot(range(len(plot_3)), plot_3, label=subject)
+                    axs[1].plot(range(len(plot_4)), plot_4, label=subject)
+                    axs[2].plot(range(len(plot_5)), plot_5, label=subject)
+
+                average_3.append(plot_3)
+                average_4.append(plot_4)
+                average_5.append(plot_5)
             
+            if(option == '1'):
+                plot_av_3 = np.sum(average_3, axis=0)/len(average_3)
+                plot_av_4 = np.sum(average_4, axis=0)/len(average_4)
+                plot_av_5 = np.sum(average_5, axis=0)/len(average_5)
+
+                axs[0].plot(range(len(plot_av_3)), plot_av_3, label='Média', color='black', linewidth=3.0)
+                axs[1].plot(range(len(plot_av_4)), plot_av_4, label='Média', color='black', linewidth=3.0)
+                axs[2].plot(range(len(plot_av_5)), plot_av_5, label='Média', color='black', linewidth=3.0)
+
             axs[0].legend()
             axs[1].legend()
             axs[2].legend()
-
-            name_fig = name_file[name_file.index('Cluster'):-4]
+            if(option == '1'):
+                name_fig = name_file[name_file.index('Cluster'):-4] + '-Average'
+            else:       
+                name_fig = name_file[name_file.index('Cluster'):-4]
             name_plot = PATH_DIRECTORY.parent / name_fig
             figure.savefig(name_plot)
             figure.clear()
