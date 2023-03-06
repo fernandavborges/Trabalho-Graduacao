@@ -22,12 +22,12 @@ models_recognition = [
   "SFace"
 ]
 models_detection = [
-  "opencv", 
-  "ssd", 
-  "dlib", 
-  "mtcnn", 
-  "retinaface", 
-  "mediapipe"
+  #"opencv", 
+  #"ssd", 
+  #"dlib", 
+  "mtcnn" 
+  #"retinaface", 
+  #"mediapipe"
 ]
 
 # Configurations for ploters
@@ -75,13 +75,16 @@ for file in files:
 
     plt.xlabel('Modelos de Reconhecimento')
     plt.ylabel('Quantidade de Imagens')
-    plt.title('Deteceção com ' + detector)
+    #plt.title('Deteceção com ' + detector)
+    plt.title('Deteceção com ' + detector + '. Procedimento: ' + str(file)[102:-4])
+    print("str: " + str(file))
+    print("str(file)[102:-4]: "+ str(file)[102:-4])
     plt.xticks(index + bar_width, np.asarray(results_recognizer))
     plt.legend()
     autolabel(rects1)
     autolabel(rects2)
     plt.tight_layout()
-    name_plot = str(Path().absolute() / 'Results/Images') + '/' + detector
+    name_plot = str(Path().absolute() / 'Results/Images') + '/' + str(file)[102:-4]
     print(name_plot)
     plt.savefig(name_plot)
-    plt.show()
+    #plt.show()
