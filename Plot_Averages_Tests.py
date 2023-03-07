@@ -90,8 +90,8 @@ if __name__ == "__main__":
         for i in range(len(csv_file)):
             subject = str(csv_file['Subject'][i])
             average_m3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(",")]
-            average_m4 = [float(item) for item in csv_file[COLUMNS[8]][i][csv_file[COLUMNS[8]][i].index('[') + 1:csv_file[COLUMNS[8]][i].index(']')].strip().split(",")]
-            average_m5 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(",")]
+            average_m4 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(",")]
+            average_m5 = [float(item) for item in csv_file[COLUMNS[11]][i][csv_file[COLUMNS[11]][i].index('[') + 1:csv_file[COLUMNS[11]][i].index(']')].strip().split(",")]
             # Average 3
             plt.title("Sujeito: "+ subject + ". Modelo: " + name_model + ".\nMédia de 3.")
             plt.bar(range(len(average_m3)), average_m3)
