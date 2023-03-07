@@ -74,7 +74,7 @@ if __name__ == "__main__":
             if(option_test == '1'):
                 rejected_subjects = []
             else:
-                rejected_subjects = ['064', '050']
+                rejected_subjects = ['064A', '050A']
 
             subjects = []
             n_subjects = int(input('\nNúmero de sujeitos a serem selecionados: '))
