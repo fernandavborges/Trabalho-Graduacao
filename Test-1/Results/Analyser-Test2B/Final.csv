@@ -1,0 +1,10 @@
+,Recognition Model,Average Reconition,Average GAP
+0,ArcFace,6.05,12.9
+1,DeepFace,3.3375,12.9
+2,DeepID,1.4125,12.9
+3,Dlib,5.4375,12.9
+4,Facenet,4.7,12.9
+5,Facenet512,3.35,12.9
+6,OpenFace,0.55,12.9
+7,SFace,4.1875,12.9
+8,VGG-Face,5.8125,12.9
