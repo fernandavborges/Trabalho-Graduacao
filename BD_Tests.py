@@ -30,6 +30,8 @@ if __name__ == "__main__":
         shutil.rmtree(NEW_BD_PATH)
     os.mkdir(NEW_BD_PATH)
 
+    files.sort()
+
     option_dataset = input('\nComo criar o banco de imagens? \n 1. Pelas extremidades (Professor) \n 2. Aleatoriamente (Liz) \n>>')
     if(option_dataset == '1'):
         if(option_test == '1' or option_test == '3'):

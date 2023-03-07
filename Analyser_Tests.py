@@ -90,7 +90,7 @@ if __name__ == "__main__":
             csv_file = pandas.read_csv(file)
 
             if(option_test == '1' or option_test == '2'):
-                born_year = int(csv_file[COLUMNS_READ[0]][0][10:14])
+                born_year = int(csv_file[COLUMNS_READ[0]][0][5:9])
                 subject = csv_file[COLUMNS_READ[0]][0][0:4]
                 for i in range(len(csv_file)):
                     age = csv_file[COLUMNS_READ[1]][i] - born_year
