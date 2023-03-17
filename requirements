@@ -1,5 +1,0 @@
-deepface
-google_auth_oauthlib
-googleapiclient
-numpy<1.24
-pandas>1.2
