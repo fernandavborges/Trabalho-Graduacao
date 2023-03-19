@@ -1,0 +1,8 @@
+Detector: mtcnn. Recognizer: Facenet512.
+Imagem 038A11.JPG e 038A13.JPG
+Exception:can only convert an array of size 1 to a Python scalar
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem 038A13.JPG e 038A17.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

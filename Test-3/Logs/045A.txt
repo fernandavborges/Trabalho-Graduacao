@@ -1,0 +1,4 @@
+Detector: mtcnn. Recognizer: SFace.
+Imagem 045A40.JPG e 045A48.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
