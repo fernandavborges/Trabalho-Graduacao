@@ -1,0 +1,20 @@
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem 040A00.JPG e 040A03.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem 040A06.JPG e 040A07.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem 040A07.JPG e 040A09.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem 040A07.JPG e 040A09.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: ArcFace.
+Imagem 040A07.JPG e 040A09.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

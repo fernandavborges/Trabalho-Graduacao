@@ -1,0 +1,12 @@
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem 080A01.JPG e 080A05.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: OpenFace.
+Imagem 080A09.JPG e 080A12.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: SFace.
+Imagem 080A12.JPG e 080A14.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
