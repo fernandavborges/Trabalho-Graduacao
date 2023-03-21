@@ -1,8 +1,4 @@
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem 076A15.JPG e 076A17.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Dlib.
-Imagem 076A15.JPG e 076A17.JPG
+Detector: mtcnn. Recognizer: SFace.
+Imagem 076A04.JPG e 076A07.JPG
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

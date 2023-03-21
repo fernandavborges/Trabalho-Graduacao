@@ -1,8 +1,4 @@
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem 041A00.JPG e 041A02.JPG
-Exception:In this `tf.Variable` creation, the initial value's shape ((1, 3, 192, 192)) is not compatible with the explicitly supplied `shape` argument ((1, 1, 896, 128)).
-
-Detector: mtcnn. Recognizer: DeepID.
-Imagem 041A04.JPG e 041A06.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem 041A20.JPG e 041A21.JPG
+Exception:can only convert an array of size 1 to a Python scalar
 

@@ -1,0 +1,4 @@
+Detector: mtcnn. Recognizer: Dlib.
+Imagem 004A21.JPG e 004A26.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

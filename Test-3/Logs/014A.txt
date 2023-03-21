@@ -1,0 +1,8 @@
+Detector: mtcnn. Recognizer: Dlib.
+Imagem 014A12.JPG e 014A14.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem 014A30.JPG e 014A36.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

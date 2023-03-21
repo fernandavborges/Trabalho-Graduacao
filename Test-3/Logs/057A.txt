@@ -1,0 +1,8 @@
+Detector: mtcnn. Recognizer: DeepFace.
+Imagem 057A17.JPG e 057A18.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+
+Detector: mtcnn. Recognizer: DeepID.
+Imagem 057A18.JPG e 057A23.JPG
+Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+

@@ -1,16 +1,4 @@
-Detector: mtcnn. Recognizer: Facenet.
-Imagem 034A11.JPG e 034A13.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem 034A11.JPG e 034A13.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem 034A11.JPG e 034A13.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem 034A39.JPG e 034A44.JPG
+Detector: mtcnn. Recognizer: DeepID.
+Imagem 034A25.JPG e 034A35.JPG
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 

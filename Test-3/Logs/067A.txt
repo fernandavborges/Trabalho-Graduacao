@@ -1,24 +1,4 @@
-Detector: mtcnn. Recognizer: Facenet512.
-Imagem 067A14.JPG e 067A17.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Dlib.
-Imagem 067A14.JPG e 067A17.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: Facenet.
-Imagem 067A17.JPG e 067A21.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem 067A28.JPG e 067A30.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem 067A28.JPG e 067A30.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem 067A30.JPG e 067A39.JPG
+Detector: mtcnn. Recognizer: SFace.
+Imagem 067A26.JPG e 067A28.JPG
 Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
 
