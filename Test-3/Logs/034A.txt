@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: DeepID.
-Imagem 034A25.JPG e 034A35.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-

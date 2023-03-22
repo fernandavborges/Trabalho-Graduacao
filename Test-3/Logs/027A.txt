@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: OpenFace.
-Imagem 027A18.JPG e 027A20.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-

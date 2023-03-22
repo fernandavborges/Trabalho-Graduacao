@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: VGG-Face.
-Imagem 007A01.JPG e 007A18.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-

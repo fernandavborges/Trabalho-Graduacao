@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem 041A20.JPG e 041A21.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-

@@ -1,8 +1,0 @@
-Detector: mtcnn. Recognizer: ArcFace.
-Imagem 053A06.JPG e 053A10.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-
-Detector: mtcnn. Recognizer: OpenFace.
-Imagem 053A15.JPG e 053A18.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-

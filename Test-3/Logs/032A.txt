@@ -1,8 +1,0 @@
-Detector: mtcnn. Recognizer: DeepFace.
-Imagem 032A15.JPG e 032A18.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-
-Detector: mtcnn. Recognizer: OpenFace.
-Imagem 032A33.JPG e 032A40.JPG
-Exception:Face could not be detected. Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
-

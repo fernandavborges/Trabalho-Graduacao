@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: DeepID.
-Imagem 051A08.JPG e 051A12.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-

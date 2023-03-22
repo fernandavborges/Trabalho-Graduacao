@@ -1,4 +1,0 @@
-Detector: mtcnn. Recognizer: Facenet.
-Imagem 024A17.JPG e 024A18.JPG
-Exception:can only convert an array of size 1 to a Python scalar
-
