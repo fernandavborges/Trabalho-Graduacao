@@ -5,7 +5,7 @@ import mediapipe
 import cv2
 import os
 
-pasta = '../Banco-de-Imagens/'
+pasta = '../C2FPW/'
 imagens = os.listdir(pasta)
 arquivo_txt = open("Logs/mediapipe_failures.txt", "w")
 imagens_falhas = []
@@ -15,7 +15,7 @@ face_detector =  mp_face_detection.FaceDetection( min_detection_confidence = 0.6
 
 for imagem in imagens: 
     print('Image ' + imagem) 
-    img = cv2.imread('../Banco-de-Imagens/' + imagem)
+    img = cv2.imread('../C2FPW/' + imagem)
     results = face_detector.process(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
     if not results.detections:
         imagens_falhas.append(imagem)

@@ -3,12 +3,12 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 # Databases
-PATH_DIRECTORY_BD = Path('.') / '../Banco-de-Imagens'
+PATH_DIRECTORY_BD = Path('.') / '../C2FPW'
 files_BD = os.listdir(PATH_DIRECTORY_BD)
 PATH_DIRECTORY_FGNET = Path('.') / '../FGNET'
 files_FGNET = os.listdir(PATH_DIRECTORY_FGNET)
 
-# 'Banco-de-Imagens' DataBase
+# 'C2FPW' DataBase
 amount_BD = []
 first_subject = True
 count = 0

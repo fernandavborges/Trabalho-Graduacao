@@ -34,7 +34,7 @@ folder_ids = [
 ]
     
 names_folder = [
-'../Banco-de-Imagens',
+'../C2FPW',
 '../FGNET',
 '../HDA-PlasticSurgery/Eyebrow',
 '../HDA-PlasticSurgery/Eyelid',

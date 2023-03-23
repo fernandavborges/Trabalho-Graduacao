@@ -7,7 +7,7 @@ from pathlib import Path
 import random
 import shutil
 
-PATH_DIRECTORY_BD = Path().absolute().parents[0] / 'Banco-de-Imagens'
+PATH_DIRECTORY_BD = Path().absolute().parents[0] / 'C2FPW'
 files = os.listdir(PATH_DIRECTORY_BD)
 
 NEW_BD_PATH = Path().absolute() / 'BD'

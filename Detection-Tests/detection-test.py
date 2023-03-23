@@ -11,7 +11,7 @@ detection_models = [
   #'mediapipe'
 ]
 
-folder = '../Banco-de-Imagens/'
+folder = '../C2FPW/'
 images = os.listdir(folder)
 log_file = open("Logs/detection_failures.txt", "w")
 for i in detection_models:
@@ -20,7 +20,7 @@ for i in detection_models:
         if(image[0] == 'S'):
             print(i + ': Image ' + image)
             try:
-                face = DeepFace.detectFace(img_path = '../Banco-de-Imagens/' + image, detector_backend = i)
+                face = DeepFace.detectFace(img_path = '../C2FPW/' + image, detector_backend = i)
             except Exception as exception:
                 print('Detection failure.')
                 print('Exception: ' + str(exception)+'\n')

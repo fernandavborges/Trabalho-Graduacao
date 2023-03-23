@@ -5,7 +5,7 @@
 import os
 from retinaface import RetinaFace
 
-folder = '../Banco-de-Imagens/'
+folder = '../C2FPW/'
 images = os.listdir(folder)
 log_file = open("Logs/retinaface_failures.txt", "w")
 images_failures = []
@@ -13,7 +13,7 @@ images_failures = []
 for image in images: 
     print('Imagem ' + image)
     try:
-        faces = RetinaFace.detect_faces('../Banco-de-Imagens/' + image)
+        faces = RetinaFace.detect_faces('../C2FPW/' + image)
     except:
         images_failures.append(image)
         print('Detection Failures.')

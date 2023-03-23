@@ -11,11 +11,11 @@ if __name__ == "__main__":
     option_test = input('Para qual teste será criado o Banco de Imagens? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
     
     if(option_test == '1'):
-        PATH_DIRECTORY_BD = Path().absolute() / 'Banco-de-Imagens'
+        PATH_DIRECTORY_BD = Path().absolute() / 'C2FPW'
         files = os.listdir(PATH_DIRECTORY_BD)
         NEW_BD_PATH = Path().absolute() / 'Test-1/BD'
     elif(option_test == '2'):
-        PATH_DIRECTORY_BD = Path().absolute() / 'Banco-de-Imagens'
+        PATH_DIRECTORY_BD = Path().absolute() / 'C2FPW'
         files = os.listdir(PATH_DIRECTORY_BD)
         NEW_BD_PATH = Path().absolute() / 'Test-2/BD'
     elif(option_test == '3'):

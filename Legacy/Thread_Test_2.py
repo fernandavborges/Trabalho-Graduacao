@@ -10,7 +10,7 @@ import threading
 
 # Chosing the database
 #PATH_DIRECTORY = Path().absolute() / 'BD'
-PATH_DIRECTORY = Path().absolute().parents[0] / 'Banco-de-Imagens'
+PATH_DIRECTORY = Path().absolute().parents[0] / 'C2FPW'
 
 COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 

@@ -8,7 +8,7 @@ To run the scripts, functions from the DeepFace library are used. Therefore, you
 ### Donwloader
 Script used to download images from image banks directly from google drive to the server used for testing. Token and credentials for client-server communication with google drive are also stored in the folder.
 
-### Banco-de-Imagens
+### C2FPW
 The image bank created by the authors, with images of celebrities who declared having undergone facial plastic surgery or specialists, confirmed this information. The images were taken from the internet and are in the public domain, but they will not be stored here, and can be collected from the links that will be provided in the FOLDER WHERE THE LINKS WILL BE SAVED.
 
 ### FGNET
@@ -17,10 +17,10 @@ The image bank created by the authors, with images of celebrities who declared h
 ### HDA-PlasticSurgery
 
 ### Test 1
-Results from test in the bank of images created by the authors "Banco-de-Imagens", taking randomly an X amount of subjects from the base and for each subject an N amount of images. The number X is defined according to the number of subjects that will be taken from the image bank that will be used to compare the results, in this case the FGNET. The value N is defined as the minimum number of images among the individuals in the databases to be compared. For the first test, 81 subjects from the base are used, with 8 images of each one, and the selection of images is carried out by taking the extremes of the lists of images.
+Results from test in the bank of images created by the authors "C2FPW", taking randomly an X amount of subjects from the base and for each subject an N amount of images. The number X is defined according to the number of subjects that will be taken from the image bank that will be used to compare the results, in this case the FGNET. The value N is defined as the minimum number of images among the individuals in the databases to be compared. For the first test, 81 subjects from the base are used, with 8 images of each one, and the selection of images is carried out by taking the extremes of the lists of images.
 
 ### Test 2
-Results from test on the image bank created by the authors "Banco-de-Imagens", randomly removing an X amount of subjects from the base and for each subject all the collected images. The number X is defined according to the number of subjects that will be removed from the image bank that will be used to compare the results, in this case the FGNET. For the first test, 81 subjects from the database are used.
+Results from test on the image bank created by the authors "C2FPW", randomly removing an X amount of subjects from the base and for each subject all the collected images. The number X is defined according to the number of subjects that will be removed from the image bank that will be used to compare the results, in this case the FGNET. For the first test, 81 subjects from the database are used.
 
 ### Test 3
 Results from test on the image bank created by FGNET in order to use all individuals who have at least 8 images, thus leaving 81 subjects out of the 82 available in the image bank. From each of the subjects, 8 images are used, which are selected from the extremes of the image lists.
