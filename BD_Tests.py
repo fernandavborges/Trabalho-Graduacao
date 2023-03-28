@@ -41,7 +41,7 @@ if __name__ == "__main__":
             if(option_test == '1'):
                 rejected_subjects = []
             else:
-                rejected_subjects = ['064', '050']
+                rejected_subjects = ['064A', '050A']
             for file in files:
                 if(file[0:4] not in selected and file[0:4] not in rejected_subjects and file != '.gitignore'):
                     selected.append(file[0:4])
