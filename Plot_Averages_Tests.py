@@ -63,7 +63,7 @@ if __name__ == "__main__":
     if(PATH_DIRECTORY_READ.exists()):
         files = PATH_DIRECTORY_READ.glob('Analyser_*.csv')
     else:
-        print('Pasta de resultado clusters não existe.')
+        print('Pasta de resultado analyser não existe.')
         exit()
 
     PATH_DIRECTORY_M3 = Path().absolute() / (name_folder_write + '-M3')
@@ -83,37 +83,43 @@ if __name__ == "__main__":
     for file in files:
         csv_file = pandas.read_csv(file)
         plt.figure()
-        plt.xlabel("Média nº")
-        plt.ylabel("Distâncias")
         file_name = str(file)
         name_model = file_name[file_name.index('Analyser_')+len('Analyser_'):file_name.index('.csv')]
         for i in range(len(csv_file)):
             subject = str(csv_file['Subject'][i])
             average_m3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(",")]
+            average_m3[:] = [x*100 / thresholds[name_model] for x in average_m3]
             average_m4 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(",")]
+            average_m4[:] = [x*100 / thresholds[name_model] for x in average_m4]
             average_m5 = [float(item) for item in csv_file[COLUMNS[11]][i][csv_file[COLUMNS[11]][i].index('[') + 1:csv_file[COLUMNS[11]][i].index(']')].strip().split(",")]
+            average_m5[:] = [x*100 / thresholds[name_model] for x in average_m5]
             # Average 3
             plt.title("Sujeito: "+ subject + ". Modelo: " + name_model + ".\nMédia de 3.")
+            plt.xlabel("Média nº")
+            plt.ylabel("Distâncias (% do Threshold)")
             plt.bar(range(len(average_m3)), average_m3)
-            plt.plot([0, len(average_m3)], [thresholds[name_model], thresholds[name_model]], "-", color='b', label='Limite')
+            plt.plot([0, len(average_m3)-1], [100, 100], "-", color='b', label='Limite')
             name_plot = str(PATH_DIRECTORY_M3) +  '/' + subject + '-' + name_model
             plt.savefig(name_plot)
             plt.close()
             # Average 4
             plt.title("Sujeito: "+ subject + ". Modelo: " + name_model + ".\nMédia de 4.")
+            plt.xlabel("Média nº")
+            plt.ylabel("Distâncias (% do Threshold)")
             plt.bar(range(len(average_m4)), average_m4)
-            plt.plot([0, len(average_m4)], [thresholds[name_model], thresholds[name_model]], "-", color='b', label='Limite')
+            plt.plot([0, len(average_m4)-1], [100, 100], "-", color='b', label='Limite')
             name_plot = str(PATH_DIRECTORY_M4) +  '/' + subject + '-' + name_model
             plt.savefig(name_plot)
             plt.close()
             # Average 5
             plt.title("Sujeito: "+ subject + ". Modelo: " + name_model + ".\nMédia de 5.")
+            plt.xlabel("Média nº")
+            plt.ylabel("Distâncias (% do Threshold)")
             plt.bar(range(len(average_m5)), average_m5)
-            plt.plot([0, len(average_m5)], [thresholds[name_model], thresholds[name_model]], "-", color='b', label='Limite')
+            plt.plot([0, len(average_m5)-1], [100, 100], "-", color='b', label='Limite')
             name_plot = str(PATH_DIRECTORY_M5) +  '/' + subject + '-' + name_model
             plt.savefig(name_plot)
             plt.close()
-            
 
 
     

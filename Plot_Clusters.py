@@ -6,6 +6,18 @@ import matplotlib.pyplot as plt
 
 COLUMNS = ['Subject', 'Ages', 'Ages GAP', 'Age Before GAP', 'Age After GAP', 'Recognized', 'Total Comparisons', 'Average (3)', 'Difference Average (3)', 'Average (4)', 'Difference Average (4)', 'Average (5)', 'Difference Average (5)']
 
+thresholds = {
+    'VGG-Face':0.4, 
+    'Facenet':0.4, 
+    'Facenet512':0.3, 
+    'OpenFace':0.1, 
+    'DeepFace':0.23, 
+    'DeepID':0.015, 
+    'ArcFace':0.68, 
+    'Dlib':0.7, 
+    'SFace':0.5932763306134152
+}
+
 if __name__ == "__main__":
 
     option_test = input('Em qual teste será realizado o plot? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
@@ -61,6 +73,8 @@ if __name__ == "__main__":
         name_file = str(file)
         average_3, average_4, average_5 = [], [], []
         csv_file = pandas.read_csv(file)
+        name_model = name_file[name_file.index('Cluster_')+14:name_file.index('.csv')]
+
         if(len(csv_file) != 0):
             figure, axs = plt.subplots(3, 1, sharex=False, sharey=False)
             plt.rcParams.update({'font.size': 15})
@@ -85,15 +99,18 @@ if __name__ == "__main__":
             axs[0].set_xlabel('Média nº')
             axs[1].set_xlabel('Média nº')
             axs[2].set_xlabel('Média nº')
-            axs[0].set_ylabel("Distâncias")
-            axs[1].set_ylabel("Distâncias")
-            axs[2].set_ylabel("Distâncias")
+            axs[0].set_ylabel("Distâncias (% do Threshold)")
+            axs[1].set_ylabel("Distâncias (% do Threshold)")
+            axs[2].set_ylabel("Distâncias (% do Threshold)")
 
             for i in range(len(csv_file)):
                 subject = csv_file[COLUMNS[0]][i]
                 plot_3 = [float(item) for item in csv_file[COLUMNS[7]][i][csv_file[COLUMNS[7]][i].index('[') + 1:csv_file[COLUMNS[7]][i].index(']')].strip().split(", ")]
+                plot_3 = [x * 100/ thresholds[name_model] for x in plot_3]
                 plot_4 = [float(item) for item in csv_file[COLUMNS[9]][i][csv_file[COLUMNS[9]][i].index('[') + 1:csv_file[COLUMNS[9]][i].index(']')].strip().split(", ")]
+                plot_4 = [x * 100/ thresholds[name_model] for x in plot_4]
                 plot_5 = [float(item) for item in csv_file[COLUMNS[11]][i][csv_file[COLUMNS[11]][i].index('[') + 1:csv_file[COLUMNS[11]][i].index(']')].strip().split(", ")]
+                plot_5 = [x * 100/ thresholds[name_model] for x in plot_5]
 
                 if(option == '1'):
                     axs[0].plot(range(len(plot_3)), plot_3, color='grey', linewidth=1.0)
@@ -127,6 +144,3 @@ if __name__ == "__main__":
             name_plot = PATH_DIRECTORY.parent / name_fig
             figure.savefig(name_plot)
             figure.clear()
-
-
-
