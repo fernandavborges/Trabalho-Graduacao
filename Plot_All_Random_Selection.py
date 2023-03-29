@@ -30,7 +30,7 @@ if __name__ == "__main__":
                 path_str = str(path)
                 print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
         option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
-        name_folder = 'Test-1/Results/Analyser-' + option_folder
+        name_folder = 'Test-2/Results/Analyser-' + option_folder
         PATH_DIRECTORY = Path().absolute() / name_folder
 
     elif(option_test == '3'):
@@ -41,12 +41,12 @@ if __name__ == "__main__":
                 path_str = str(path)
                 print('-', path_str[path_str.index('Analyser-')+len('Analyser-'):], '\n')
         option_folder = input('Qual a pasta de resultados será analisada? (É preciso que esteja gerado a pasta de Analyser desses resultados)(ex: Test1A): ')
-        name_folder = 'Test-1/Results/Analyser-' + option_folder
+        name_folder = 'Test-3/Results/Analyser-' + option_folder
         PATH_DIRECTORY = Path().absolute() / name_folder
     else:
         print('Opçao inválida.')
         exit()
-    
+
     if(PATH_DIRECTORY.exists()):
         files_read = PATH_DIRECTORY.glob('*.csv')
     else:
