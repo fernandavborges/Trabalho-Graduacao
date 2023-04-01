@@ -7,6 +7,6 @@ Test-2/BD/
 Test-3/BD-FGNET/
 venv/
 Detection-Tests/Results-MTCNN/
-
+*.png
 
 
