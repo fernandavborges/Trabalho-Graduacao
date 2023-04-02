@@ -17,7 +17,7 @@ models_recognition = [
 ]
 
 if __name__ == "__main__":
-    COLUMNS_WRITE = ['Subject', 'Recognition Model', 'Results', 'Residue']
+    COLUMNS_WRITE = ['Subject', 'Recognition Model', 'Results', 'Residue', 'Absolute Residue']
     
     option_test = input('Em qual teste será realizado a cálculo de resíduo? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
 
@@ -91,8 +91,9 @@ if __name__ == "__main__":
             
             difference = np.diff(np.asarray(results_recognizer))
             residue = np.sum(difference)
+            abs_residue = np.sum(np.absolute(difference))
 
-            results.loc[k] = [subject, recognizer, results_recognizer, residue]
+            results.loc[k] = [subject, recognizer, results_recognizer, residue, abs_residue]
             k = k + 1
     name_csv = 'Residue-Test' + option_test + '-' + option_folder + '.csv'
     path_csv = PATH_DIRECTORY_WRITE / name_csv
