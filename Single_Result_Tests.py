@@ -19,7 +19,7 @@ models_recognition = [
 if __name__ == "__main__":
     COLUMNS_WRITE = ['Subject', 'Average Result']
     
-    option_test = input('Em qual teste será realizado a análise? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
+    option_test = input('Em qual teste será realizado a análise? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3\n 4. Teste 4\n>>')
 
     if(option_test == '1'):
         path_tests = Path().absolute() / 'Test-1/Results/'
