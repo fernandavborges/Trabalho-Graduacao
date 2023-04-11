@@ -8,7 +8,7 @@ import random
 import shutil
 
 if __name__ == "__main__":
-    option_test = input('Para qual teste será criado o Banco de Imagens? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
+    option_test = input('Para qual teste será criado o Banco de Imagens? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n 4. Teste 4 \n>>')
     
     if(option_test == '1'):
         PATH_DIRECTORY_BD = Path().absolute() / 'C2FPW'
@@ -22,6 +22,10 @@ if __name__ == "__main__":
         PATH_DIRECTORY_BD = Path().absolute() / 'FGNET'
         files = os.listdir(PATH_DIRECTORY_BD)
         NEW_BD_PATH = Path().absolute() / 'Test-3/BD-FGNET'
+    elif(option_test == '4'):
+        PATH_DIRECTORY_BD = Path().absolute() / 'FGNET'
+        files = os.listdir(PATH_DIRECTORY_BD)
+        NEW_BD_PATH = Path().absolute() / 'Test-4/BD-FGNET'
     else:
         print('Opção inválida.')
         exit()
@@ -91,7 +95,7 @@ if __name__ == "__main__":
             selected = random.sample(subjects, k=n_subjects)
             print('Sujeitos escolhidos: ', selected)
         else:
-            print('\nComo o teste 2 é realizado em todo o sujeitos, o banco de imagens será criado com todos.')
+            print('\nComo esse teste é realizado em todo o sujeitos, o banco de imagens será criado com todos eles.')
             selected = []
             for file in files:
                 if(file[0:4] not in selected and file != '.gitignore'):

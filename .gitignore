@@ -8,5 +8,7 @@ Test-3/BD-FGNET/
 venv/
 Auxiliar-Scripts/Results-MTCNN/
 *.png
+*.JPEG
+*.JPG
 
 

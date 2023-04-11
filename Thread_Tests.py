@@ -85,7 +85,7 @@ def recognition_thread(subjects, files, bd_folder, results_folder, file_logs_pat
     file_logs.close()
 
 if __name__ == "__main__":
-    option_test = input('Qual teste será rodado? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n>>')
+    option_test = input('Qual teste será rodado? \n 1. Teste 1 \n 2. Teste 2 \n 3. Teste 3 \n 4. Teste 4\n >>')
     
     if(option_test == '1'):
         PATH_DIRECTORY = Path().absolute() / 'Test-1'
@@ -101,6 +101,11 @@ if __name__ == "__main__":
         PATH_DIRECTORY = Path().absolute() / 'Test-3'
         COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
         PATH_LOGS = Path().absolute() / 'Test-3/Logs/'
+        PATH_BD = PATH_DIRECTORY / 'BD-FGNET'
+    elif(option_test == '4'):
+        PATH_DIRECTORY = Path().absolute() / 'Test-4'
+        COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
+        PATH_LOGS = Path().absolute() / 'Test-4/Logs/'
         PATH_BD = PATH_DIRECTORY / 'BD-FGNET'
     else:
         print('Opção inválida.')
