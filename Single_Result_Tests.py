@@ -53,7 +53,7 @@ if __name__ == "__main__":
         option_folder = input('Qual a pasta de resultados será analisada? (ex: Test1A): ')
         name_folder_read = 'Test-3/Results/' + option_folder
         COLUMNS_READ = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
-        name_folder_write = 'Test-3/Results/SingleResult--' + option_folder
+        name_folder_write = 'Test-3/Results/SingleResult-' + option_folder
     elif(option_test == '4'):
         path_tests = Path().absolute() / 'Test-4/Results/'
         print('Pasta de resultados disponíveis no Test-4:')
