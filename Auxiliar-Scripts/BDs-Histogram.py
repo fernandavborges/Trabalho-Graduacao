@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 import matplotlib.pyplot as plt
+from pprint import pprint
 
 # Databases
 PATH_DIRECTORY_BD = Path('.') / '../C2FPW'
@@ -13,18 +14,33 @@ amount_BD = []
 first_subject = True
 count = 0
 for file in files_BD:
-    if first_subject:
-        subject = file[0:4]
-        count = count + 1
-        first_subject = False
-    else:
-        if(file[0:4] != subject):
-            amount_BD.append(count)
-            count = 1
+    if file != '.gitignore':
+        if first_subject:
             subject = file[0:4]
-        else:
             count = count + 1
+            first_subject = False
+        else:
+            if(file[0:4] != subject):
+                amount_BD.append(count)
+                count = 1
+                subject = file[0:4]
+            else:
+                count = count + 1
 amount_BD.append(count)
+
+frequency = {}
+# iterating over the list
+for item in amount_BD:
+   # checking the element in dictionary
+   if item in frequency:
+      # incrementing the counr
+      frequency[item] += 1
+   else:
+      # initializing the count
+      frequency[item] = 1
+
+# printing the frequency
+pprint(frequency)
 
 plt.title('Banco de Imagens - Fernanda e Liz')
 plt.xlabel('Quantidade de Imagens por Pessoa')
@@ -40,18 +56,33 @@ amount_FGNET = []
 first_subject = True
 count = 0
 for file in files_FGNET:
-    if first_subject:
-        subject = file[0:4]
-        count = count + 1
-        first_subject = False
-    else:
-        if(file[0:4] != subject):
-            amount_FGNET.append(count)
-            count = 1
+    if file != '.gitignore':
+        if first_subject:
             subject = file[0:4]
-        else:
             count = count + 1
+            first_subject = False
+        else:
+            if(file[0:4] != subject):
+                amount_FGNET.append(count)
+                count = 1
+                subject = file[0:4]
+            else:
+                count = count + 1
 amount_FGNET.append(count)
+
+frequency = {}
+# iterating over the list
+for item in amount_FGNET:
+   # checking the element in dictionary
+   if item in frequency:
+      # incrementing the counr
+      frequency[item] += 1
+   else:
+      # initializing the count
+      frequency[item] = 1
+
+# printing the frequency
+pprint(frequency)
 
 plt.title('Banco de Imagens - FGNET')
 plt.xlabel('Quantidade de Imagens por Pessoa')
