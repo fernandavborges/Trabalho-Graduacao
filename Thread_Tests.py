@@ -111,13 +111,17 @@ if __name__ == "__main__":
         print('Opção inválida.')
         exit()
 
-    option_mode = input('\nQual o modo de teste?\n 1. Normal \n 2. Aleatório \n>>')
+    option_mode = input('\nQual o modo de teste?\n 1. Normal \n 2. Aleatório \n 3. Quartis\n>>')
 
     if(option_mode == '1'): 
         results_folder = PATH_DIRECTORY / 'Results/Test1A/'
     elif(option_mode == '2'):
         number_test = input('\nNúmemo do teste a ser realizado (é esperado um número inteiro que será adicionado ao nome da pasta): ')
         name = 'Results/Test' + number_test + 'B/'
+        results_folder = PATH_DIRECTORY / name
+    elif(option_mode == '3'):
+        number_test = input('\nNúmemo do teste a ser realizado (é esperado um número inteiro que será adicionado ao nome da pasta): ')
+        name = 'Results/Test' + number_test + 'C/'
         results_folder = PATH_DIRECTORY / name
     else:
         print('Opção inválida.')
