@@ -29,11 +29,11 @@ if __name__ == "__main__":
         if(option_test == '1'):
             stdin = '1\n3\n90\n10\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(output)
+            print(stdin)
         else:
             stdin = '3\n3\n73\n10\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(output)
+            print(stdin)
         
         process.wait()
 
@@ -45,10 +45,10 @@ if __name__ == "__main__":
         if(option_test == '1'):
             stdin = '1\n3\n' + str(test) + '\n1\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(output)
+            print(stdin)
         else:
             stdin = '3\n3\n' + str(test) + '\n1\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(output)
+            print(stdin)
 
         process.wait()
