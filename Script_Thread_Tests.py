@@ -27,9 +27,13 @@ if __name__ == "__main__":
         process = Popen(command, stdin=PIPE, shell=True, text=True)
 
         if(option_test == '1'):
-            output = process.communicate(input='1\n3\n90\n10', timeout=None)
+            stdin = '1\n3\n90\n10\n'
+            output = process.communicate(input=stdin, timeout=None)
+            print(output)
         else:
-            output = process.communicate(input='3\n3\n73\n10', timeout=None)
+            stdin = '3\n3\n73\n10\n'
+            output = process.communicate(input=stdin, timeout=None)
+            print(output)
         
         process.wait()
 
@@ -39,10 +43,12 @@ if __name__ == "__main__":
 
         time.sleep(5)
         if(option_test == '1'):
-            output = process.communicate(input='1\n3\n' + str(test) + '\n1', timeout=None)
+            stdin = '1\n3\n' + str(test) + '\n1\n'
+            output = process.communicate(input=stdin, timeout=None)
             print(output)
         else:
-            output = process.communicate(input='3\n3\n' + str(test) + '\n1', timeout=None)
+            stdin = '3\n3\n' + str(test) + '\n1\n'
+            output = process.communicate(input=stdin, timeout=None)
             print(output)
 
         process.wait()
