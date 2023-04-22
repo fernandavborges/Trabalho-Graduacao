@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
         print("Criando o Banco de Imagens...")
         command = ["python3", "BD_Tests.py"]
-        process = Popen(command, stdin=PIPE, stderr=PIPE, stdout=Pipe, shell=True, text=True)
+        process = Popen(command, stdin=PIPE, stderr=PIPE, stdout=PIPE, shell=True, text=True)
 
         if(option_test == '1'):
             output, erro = process.communicate(input='1\n3\n90\n10', timeout=None)
