@@ -24,31 +24,27 @@ if __name__ == "__main__":
 
         print("Criando o Banco de Imagens...")
         command = ["python", "BD_Tests.py"]
-        process = Popen(command, stdin=PIPE, shell=True, text=True)
+        process = Popen(command, stdin=PIPE, text=True)
 
         if(option_test == '1'):
             stdin = '1\n3\n90\n10\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(stdin)
         else:
             stdin = '3\n3\n73\n10\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(stdin)
         
         process.wait()
 
         print("Rodando a Thread...")
         command = ["python3", "Thread_Tests.py"]
-        process = Popen(command, stdin=PIPE, shell=True, text=True)
+        process = Popen(command, stdin=PIPE, text=True)
 
         time.sleep(5)
         if(option_test == '1'):
             stdin = '1\n3\n' + str(test) + '\n1\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(stdin)
         else:
             stdin = '3\n3\n' + str(test) + '\n1\n'
             output = process.communicate(input=stdin, timeout=None)
-            print(stdin)
 
         process.wait()
