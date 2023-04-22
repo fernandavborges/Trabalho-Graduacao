@@ -1,4 +1,4 @@
-import os
+import platform
 from subprocess import Popen, PIPE
 import time
 
@@ -23,7 +23,10 @@ if __name__ == "__main__":
         print("Teste ", test, "\n")
 
         print("Criando o Banco de Imagens...")
-        command = ["python", "BD_Tests.py"]
+        if(platform.system() == 'Linux'):
+            command = ["python3", "BD_Tests.py"]
+        elif(platform.system() == 'Windows'):
+            command = ["python", "BD_Tests.py"]
         process = Popen(command, stdin=PIPE, text=True)
 
         if(option_test == '1'):
@@ -36,7 +39,10 @@ if __name__ == "__main__":
         process.wait()
 
         print("Rodando a Thread...")
-        command = ["python3", "Thread_Tests.py"]
+        if(platform.system() == 'Linux'):
+            command = ["python3", "Thread_Tests.py"]
+        elif(platform.system() == 'Windows'):
+            command = ["python", "Thread_Tests.py"]
         process = Popen(command, stdin=PIPE, text=True)
 
         time.sleep(5)
