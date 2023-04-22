@@ -28,8 +28,10 @@ if __name__ == "__main__":
 
         if(option_test == '1'):
             output = process.communicate(input='1\n3\n90\n10', timeout=None)
+            print(output)
         else:
             output = process.communicate(input='3\n3\n73\n10', timeout=None)
+            print(output)
 
         print("Rodando a Thread...")
         command = ["python3", "Thread_Tests.py"]
@@ -38,7 +40,9 @@ if __name__ == "__main__":
         time.sleep(5)
         if(option_test == '1'):
             output = process.communicate(input='1\n3\n' + str(test) + '\n1', timeout=None)
+            print(output)
         else:
             output = process.communicate(input='3\n3\n' + str(test) + '\n1', timeout=None)
+            print(output)
 
         process.wait()
