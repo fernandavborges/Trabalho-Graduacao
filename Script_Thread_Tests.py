@@ -23,15 +23,15 @@ if __name__ == "__main__":
         print("Teste ", test, "\n")
 
         print("Criando o Banco de Imagens...")
-        command = ["python3", "BD_Tests.py"]
-        process = Popen(command, stdin=PIPE, stderr=PIPE, stdout=PIPE, shell=True, text=True)
+        command = ["python", "BD_Tests.py"]
+        process = Popen(command, stdin=PIPE, shell=True, text=True)
 
         if(option_test == '1'):
-            output, erro = process.communicate(input='1\n3\n90\n10', timeout=None)
-            print(erro)
+            output = process.communicate(input='1\n3\n90\n10', timeout=None)
         else:
-            output, erro = process.communicate(input='3\n3\n73\n10', timeout=None)
-            print(erro)
+            output = process.communicate(input='3\n3\n73\n10', timeout=None)
+        
+        process.wait()
 
         print("Rodando a Thread...")
         command = ["python3", "Thread_Tests.py"]
