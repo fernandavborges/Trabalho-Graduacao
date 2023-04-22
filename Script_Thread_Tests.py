@@ -23,7 +23,7 @@ if __name__ == "__main__":
         print("Teste ", test, "\n")
 
         print("Criando o Banco de Imagens...")
-        command = ["python", "BD_Tests.py"]
+        command = ["python3", "BD_Tests.py"]
         process = Popen(command, stdin=PIPE, shell=True, text=True)
 
         if(option_test == '1'):
@@ -32,9 +32,9 @@ if __name__ == "__main__":
             output = process.communicate(input='3\n3\n73\n10', timeout=None)
 
         print("Rodando a Thread...")
-        command = ["python", "Thread_Tests.py"]
+        command = ["python3", "Thread_Tests.py"]
         process = Popen(command, stdin=PIPE, shell=True, text=True)
-        
+
         time.sleep(5)
         if(option_test == '1'):
             output = process.communicate(input='1\n3\n' + str(test) + '\n1', timeout=None)
