@@ -38,6 +38,7 @@ if __name__ == "__main__":
             subjects.append(file[0:4])
     subjects.sort()
     for sub in subjects:
+        print('Subject: ', sub)
         results = DataFrame(columns=COLUMNS)
         images = []
         for file in files:
