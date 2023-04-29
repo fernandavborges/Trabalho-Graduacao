@@ -67,6 +67,7 @@ if __name__ == "__main__":
         img4_path = str(PATH_BD / random_image_4)
         
         for recognizer in models_recognition:
+            print('Modelo: ', recognizer, '. Sujeito: ', sub)
             result = DeepFace.verify(img1_path = img1_path, img2_path = img2_path, model_name=recognizer, distance_metric = "cosine", detector_backend = "mtcnn")
             line = [random_image_1, random_image_1[10:14], random_image_2, random_image_2[10:14], distance_metrics[0], "mtcnn", recognizer, result.get('distance'), result.get('verified')]
             results.loc[len(results)] = line
@@ -78,8 +79,6 @@ if __name__ == "__main__":
             true_positive.append(result.get('verified'))
         
 
-    print('Sujeitos reconhecidos corretamente:', true_positive.count('True'))
-    print('True positive:', true_positive.count('True')/len(true_positive))
 
     images = []
     for file in files:
@@ -103,6 +102,8 @@ if __name__ == "__main__":
             results.loc[len(results)] = line
             true_negative.append(result.get('verified'))
     
+    print('Sujeitos reconhecidos corretamente:', true_positive.count('True'))
+    print('True positive:', true_positive.count('True')/len(true_positive))
     print('Sujeitos não reconhecidos corretamente:', true_positive.count('False'))
     print('True negative:', true_positive.count('False')/len(true_positive))
 
