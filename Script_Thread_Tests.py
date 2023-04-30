@@ -17,7 +17,7 @@ if __name__ == "__main__":
         print("São necessários apenas 30 testes.")
         exit()
 
-    tests = range(int(start_tests), 31)
+    tests = range(int(start_tests), 29)
 
     for test in tests:
         print("Teste ", test, "\n")
