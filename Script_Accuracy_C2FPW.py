@@ -23,12 +23,12 @@ models_recognition = [
 distance_metrics = "cosine"
 model_detection = "mtcnn"
 
-PATH_BD = Path().absolute() / 'C2FPW'
-PATH_RESULTS = Path().absolute() / 'Test-2/Results/Test-Accuracy/'
+PATH_BD = Path().absolute() / 'FGNET'
+PATH_RESULTS = Path().absolute() / 'Test-3/Results/Test-Accuracy/'
 if(not PATH_RESULTS.exists()):
     os.mkdir(PATH_RESULTS)
 
-COLUMNS = ['Image 1', 'Year 1', 'Image 2', 'Year 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
+COLUMNS = ['Image 1', 'Age 1', 'Image 2', 'Age 2', 'Distance Metric', 'Detection Model', 'Recognition Model', 'Distance Result', 'Recognition Result']
 
 if __name__ == "__main__":  
     files = os.listdir(PATH_BD)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     for file in files:
         images.append(file)
     
-    for i in range(len(true_positive)):
+    for i in range(len(true_positive)//len(models_recognition)):
         random_image_1 = random.choice(images)
         images.remove(random_image_1)
         random_image_2 = random.choice(images)
