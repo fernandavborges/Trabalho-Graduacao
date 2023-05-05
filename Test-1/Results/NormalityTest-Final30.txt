@@ -1,0 +1,2 @@
+{'VGG-Face': True, 'Facenet': True, 'Facenet512': True, 'OpenFace': False, 'DeepFace': True, 'DeepID': False, 'ArcFace': True, 'Dlib': True, 'SFace': True}
+Variancia: 0.004655407789540407
